@@ -7,13 +7,13 @@ author_profile: true
 
 **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, “Mobile Robotic Painting of Texture,” *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.
 
-**M. El Helou**, M. Shahpaski, S. S{\"u}sstrunk, “Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images,” *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.
+**M. El Helou**, M. Shahpaski, S. Süsstrunk, “Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images,” *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.
 
-**M. El Helou**, F. D{\"u}mbgen, and S. S\"{u}sstrunk, "AAM: an assessment metric of axial chromatic aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.
+**M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an assessment metric of axial chromatic aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.
 
-F. D{\"u}mbgen *****, **M. El Helou***, N. Gucevska, and S. S{\"u}sstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS\&T/SPIE Electronic Imaging*, 2018. (***** equal contribution)
+F. D{\"u}mbgen *****, **M. El Helou***, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS\&T/SPIE Electronic Imaging*, 2018. (***** equal contribution)
 
-**M. El Helou**, Z. Sadeghipoor, and S. S\"{u}sstrunk, "Correlation-based deblurring leveraging multispectral chromatic aberration in color and near-infrared joint acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.
+**M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-based deblurring leveraging multispectral chromatic aberration in color and near-infrared joint acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.
 
 Ideas proposed (and co-supervised) by me
 ----
