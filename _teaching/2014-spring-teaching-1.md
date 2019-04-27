@@ -9,7 +9,7 @@ location: "Switzerland"
 ---
 
 
-Supervision of project ideas that I propose to undergraduate students.
+Supervision of project ideas that I propose to undergraduate students, lister per year since 2017.
 
 2019
 =====
