@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Majed El Helou"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Majed El Helou"
 description              : &description "personal description"
