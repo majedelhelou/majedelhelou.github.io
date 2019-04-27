@@ -6,17 +6,16 @@ author_profile: true
 ---
 
 - **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, “Mobile Robotic Painting of Texture,” *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.
-<span style="color:blue">some *blue* text</span>
 
 - **M. El Helou**, M. Shahpaski, S. Süsstrunk, “Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images,” *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.  
-[[Paper]](https://infoscience.epfl.ch/record/264918)
+[<span style="color:blue"> [Paper] </span>](https://infoscience.epfl.ch/record/264918)
 
 - **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an Assessment Metric of Axial Chromatic Aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
-[[Paper]](https://infoscience.epfl.ch/record/255464) - [[Code]](https://github.com/duembgen/AAM_ICIP18)
+[<span style="color:blue"> [Paper] </span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/AAM_ICIP18)
 
 
 - F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, “Near-Infrared Fusion for Photorealistic Image Dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (\* equal contribution)  
-[[Paper]](https://infoscience.epfl.ch/record/253201) - [[Code]](https://github.com/duembgen/NIRdehazing)
+[<span style="color:blue"> [Paper] </span>](https://infoscience.epfl.ch/record/253201) - [[Code]](https://github.com/duembgen/NIRdehazing)
 
 - **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
 [[Paper]](https://infoscience.epfl.ch/record/231919) - [[Code]](https://ivrl.epfl.ch/research-2/research-current/research-infrared/page-148973-en-html/)
