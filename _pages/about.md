@@ -15,5 +15,5 @@ For my CV, you can directly contact me by email. And for my publications with IV
 
 *Contact details*
 ---
-You can find my contact details on my EPFL directory [here](https://ivrl.epfl.ch/people/majed/).
+You can find my contact details on my EPFL [personal directory](https://ivrl.epfl.ch/people/majed/).
 
