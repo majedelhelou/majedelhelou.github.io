@@ -15,7 +15,7 @@ author_profile: true
 -[[Code]](https://github.com/duembgen/AAM_ICIP18)
 
 
-- F. Dümbgen*, **M. El Helou** *, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (* equal contribution)  
+- F. Dümbgen *, **M. El Helou** *, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (* equal contribution)  
 [[Paper]](https://infoscience.epfl.ch/record/253201)
 -[[Code]](https://github.com/duembgen/NIRdehazing)
 
