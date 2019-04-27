@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me as a researcher"
+title: "About me (as a researcher!)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
