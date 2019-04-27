@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Project Supervision"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate projects supervision"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "EPFL"
+date: 2016-2019
+location: "Switzerland"
 ---
 
 
+Supervision of project ideas that I propose to undergraduate students.
 
 Heading 1
 ======
