@@ -12,12 +12,12 @@ author_profile: true
 
 **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an assessment metric of axial chromatic aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
 [[Paper]](https://infoscience.epfl.ch/record/255464)
-[[Code]](https://github.com/duembgen/AAM_ICIP18)
+-[[Code]](https://github.com/duembgen/AAM_ICIP18)
 
 
-F. D{\"u}mbgen *****, **M. El Helou***, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS\&T/SPIE Electronic Imaging*, 2018. (***** equal contribution)  
+F. D{\"u}mbgen*, **M. El Helou** *, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS\&T/SPIE Electronic Imaging*, 2018. (* equal contribution)  
 [[Paper]](https://infoscience.epfl.ch/record/253201)
-[[Code]](https://github.com/duembgen/NIRdehazing)
+-[[Code]](https://github.com/duembgen/NIRdehazing)
 
 **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-based deblurring leveraging multispectral chromatic aberration in color and near-infrared joint acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
 [[Paper]](https://infoscience.epfl.ch/record/231919)
@@ -31,7 +31,7 @@ R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A comparative study o
 ### Misc.
 **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-domain optimization for image processing,” *arXiv preprint arXiv:1809.04187*, 2018.  
 [[Paper]](https://arxiv.org/abs/1809.04187)
-[[Code]](https://github.com/duembgen/fourier-deconv)
+-[[Code]](https://github.com/duembgen/fourier-deconv)
 
 B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018.  
 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
