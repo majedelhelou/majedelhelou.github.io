@@ -18,7 +18,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/253201) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/NIRdehazing)
 
 - **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
-[[Paper]](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code] </span>](https://ivrl.epfl.ch/research-2/research-current/research-infrared/page-148973-en-html/)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code] </span>](https://ivrl.epfl.ch/research-2/research-current/research-infrared/page-148973-en-html/)
 
 
 ### --- Ideas proposed (and co-supervised) by me ---
@@ -28,10 +28,10 @@ author_profile: true
 
 ### --- Misc. ---
 - **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-Domain Optimization for Image Processing,” *arXiv preprint arXiv:1809.04187*, 2018.  
-[[Paper]](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
+[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
 
 - B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018.  
-[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
+[<span style="color:blue"> [Paper]</span>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
 
 
   
@@ -39,7 +39,7 @@ author_profile: true
 - **M. El Helou**, R. Chanouha and H. Hajj "Multiresolution Bagging for Ensemble Classification," lightning talk and poster session *in Workshop on Model-Based Clustering and Classification (MBC2)*, 2018.
 
 - **M. El Helou**, A. Turkmani, R. Chanouha and S. Charbaji "A Novel ENF Extraction Approach for Region-of-Recording Identification of Media Recordings," *in IEEE International Conference on Signal Processing (ICSP)*, 2016, Vol. 6. pp. 97-108.  
-[[Paper]](http://aircconline.com/csit/csit652.pdf#page=107)
+[<span style="color:blue"> [Paper]</span>](http://aircconline.com/csit/csit652.pdf#page=107)
 
 - **M. El Helou**, R. Chanouha and L. Debs "Statistical Voxel-Based Morphometric Image Processing for Automated Diagnosis of Epileptic Lesions from MRI," *in 15<sup>th</sup> FEASAC*, 2016.
 
