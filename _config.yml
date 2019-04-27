@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "<span style="color:red"> Majed El Helou text</span>"
+  name             : "Majed El Helou"
   avatar           : "lake_geneva.jpeg"
   bio              : "PhD candidate, conducting research in computational imaging and machine learning."
   location         : "EPFL, Switzerland"
