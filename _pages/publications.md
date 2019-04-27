@@ -17,11 +17,11 @@ F. D{\"u}mbgen *****, **M. El Helou***, N. Gucevska, and S. Süsstrunk, “Near-
 
 Ideas proposed (and co-supervised) by me
 ----
-R. Zhou, F. Lahoud, **M. El Helou**, and S. S{\"u}sstrunk, “A comparative study on wavelets and residuals in deep super resolution,” *in IS\&T/SPIE Electronic Imaging*, 2019.
+R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A comparative study on wavelets and residuals in deep super resolution,” *in IS\&T/SPIE Electronic Imaging*, 2019.
 
 Misc.
 ----
-**M. El Helou**, F. D{\"u}mbgen, R. Achanta, and S. S{\"u}sstrunk, “Fourier-domain optimization for image processing,” *arXiv preprint arXiv:1809.04187*, 2018.
+**M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-domain optimization for image processing,” *arXiv preprint arXiv:1809.04187*, 2018.
 
 B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018.
 
