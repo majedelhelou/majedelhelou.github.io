@@ -21,12 +21,12 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code] </span>](https://ivrl.epfl.ch/research-2/research-current/research-infrared/page-148973-en-html/)
 
 
-### --- Ideas proposed (and co-supervised) by me ---
+## --- Ideas proposed (and co-supervised) by me ---
 - R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A Comparative Study on Wavelets and Residuals in Deep Super Resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/262784?ln=en)
 
 
-### --- Misc. ---
+## --- Misc. ---
 - **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-Domain Optimization for Image Processing,” *arXiv preprint arXiv:1809.04187*, 2018.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
 
