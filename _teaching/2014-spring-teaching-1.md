@@ -26,13 +26,13 @@ Human body pose morphing dataset and analysis. (BS)
 
 Frequency domain image super resolution. (MS)
 
+
+2017
+====
 Music recommendation algorithm. (BS)
 
 Image location website front-end and gamification. (MS)
 
-
-2017
-====
 Least significant bit steganography algorithm. (MS)
 
 Image location website back-end, and user analytics. (MS)
