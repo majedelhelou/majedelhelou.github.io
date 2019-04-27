@@ -35,4 +35,4 @@ Image location website front-end and gamification. (MS)
 ====
 Least significant bit steganography algorithm. (MS)
 
-Image location website backend, and user analytics. (MS)
+Image location website back-end, and user analytics. (MS)
