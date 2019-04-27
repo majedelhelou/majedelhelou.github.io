@@ -4,18 +4,35 @@ collection: teaching
 type: "Undergraduate projects supervision"
 permalink: /teaching/2014-spring-teaching-1
 venue: "EPFL"
-date: 01-01-2016 to 01-01-2019
+date: 01-01-2017 to 01-01-2019
 location: "Switzerland"
 ---
 
 
 Supervision of project ideas that I propose to undergraduate students.
 
-Heading 1
-======
+2019
+=====
+Coming soon.
 
-Heading 2
-======
 
-Heading 3
-======
+2018
+====
+Extreme video completion algorithms design
+
+Drone shadow tracking in aerial videos
+
+Human body pose morphing dataset and analysis
+
+Frequency domain image super resolution
+
+Music recommendation algorithm 
+
+Image location website front-end and gamification
+
+
+2017
+====
+Least significant bit steganography algorithm
+
+Image location website backend, and user analytics
