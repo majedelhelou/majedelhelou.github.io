@@ -1,12 +1,11 @@
 ---
-title: "Doctoral Assistant for the EPFL courses:"
+title: "Doctoral Assistant"
 collection: teaching
-#type: "Workshop"
+#type: "Courses"
 #permalink: /teaching/2015-spring-teaching-1
-#venue: "University 1, Department"
+venue: "EPFL"
 date: 2016-2019
-#location: "City, Country"
-
+location: "Switzerland"
 ---
 
 [Mise à Niveau](https://man.epfl.ch/) Spring 2019
