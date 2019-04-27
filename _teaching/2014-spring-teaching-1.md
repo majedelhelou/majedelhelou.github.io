@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate projects supervision"
 permalink: /teaching/2014-spring-teaching-1
 venue: "EPFL"
-date: 01-01-8
+date: 8-8-8
 location: "Switzerland"
 ---
 
