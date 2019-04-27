@@ -11,10 +11,16 @@ author_profile: true
 
 **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an assessment metric of axial chromatic aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.
 
+[[Paper]](https://infoscience.epfl.ch/record/255464)
+
 F. D{\"u}mbgen *****, **M. El Helou***, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS\&T/SPIE Electronic Imaging*, 2018. (***** equal contribution)
 
+[[Paper]](https://infoscience.epfl.ch/record/253201)
+
 **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-based deblurring leveraging multispectral chromatic aberration in color and near-infrared joint acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.
+
 [[Paper]](https://infoscience.epfl.ch/record/231919)
+
 
 
 ### Ideas proposed (and co-supervised) by me
