@@ -4,7 +4,7 @@ collection: teaching
 type: "Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "EPFL"
-#date: 2016-2019
+date: 01-01-2016
 location: "Switzerland"
 ---
 
