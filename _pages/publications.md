@@ -15,7 +15,7 @@ author_profile: true
 -[[Code]](https://github.com/duembgen/AAM_ICIP18)
 
 
-F. D{\"u}mbgen*, **M. El Helou** *, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS\&T/SPIE Electronic Imaging*, 2018. (* equal contribution)  
+F. Dümbgen*, **M. El Helou** *, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (* equal contribution)  
 [[Paper]](https://infoscience.epfl.ch/record/253201)
 -[[Code]](https://github.com/duembgen/NIRdehazing)
 
@@ -25,7 +25,7 @@ F. D{\"u}mbgen*, **M. El Helou** *, N. Gucevska, and S. Süsstrunk, “Near-infr
 
 
 ### Ideas proposed (and co-supervised) by me
-R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A comparative study on wavelets and residuals in deep super resolution,” *in IS\&T/SPIE Electronic Imaging*, 2019.  
+R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A comparative study on wavelets and residuals in deep super resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
 [[Paper]](https://infoscience.epfl.ch/record/262784?ln=en)
 
 ### Misc.
