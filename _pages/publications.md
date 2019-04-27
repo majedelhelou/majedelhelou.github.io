@@ -14,6 +14,7 @@ author_profile: true
 F. D{\"u}mbgen *****, **M. El Helou***, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS\&T/SPIE Electronic Imaging*, 2018. (***** equal contribution)
 
 **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-based deblurring leveraging multispectral chromatic aberration in color and near-infrared joint acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.
+[[Paper]](https://infoscience.epfl.ch/record/231919)
 
 
 ### Ideas proposed (and co-supervised) by me
