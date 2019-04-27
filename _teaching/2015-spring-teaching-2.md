@@ -8,7 +8,7 @@ date: 01-01-2017
 location: "Switzerland"
 ---
 
-Teaching assistant for undergraduate courses, lister per semester since 2017.
+Teaching assistant for undergraduate courses, listed per semester since 2017.
 
 
 [Mise à Niveau](https://man.epfl.ch/) Spring 2019
