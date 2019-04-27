@@ -8,17 +8,17 @@ author_profile: true
 - **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, “Mobile Robotic Painting of Texture,” *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.
 
 - **M. El Helou**, M. Shahpaski, S. Süsstrunk, “Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images,” *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.  
-[<span style="color:blue"> [Paper] </span>](https://infoscience.epfl.ch/record/264918)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/264918)
 
 - **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an Assessment Metric of Axial Chromatic Aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
-[<span style="color:blue"> [Paper] </span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/AAM_ICIP18)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/AAM_ICIP18)
 
 
 - F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, “Near-Infrared Fusion for Photorealistic Image Dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (\* equal contribution)  
-[<span style="color:blue"> [Paper] </span>](https://infoscience.epfl.ch/record/253201) - [[Code]](https://github.com/duembgen/NIRdehazing)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/253201) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/NIRdehazing)
 
 - **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
-[[Paper]](https://infoscience.epfl.ch/record/231919) - [[Code]](https://ivrl.epfl.ch/research-2/research-current/research-infrared/page-148973-en-html/)
+[[Paper]](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code] </span>](https://ivrl.epfl.ch/research-2/research-current/research-infrared/page-148973-en-html/)
 
 
 ### --- Ideas proposed (and co-supervised) by me ---
@@ -28,7 +28,7 @@ author_profile: true
 
 ### --- Misc. ---
 - **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-Domain Optimization for Image Processing,” *arXiv preprint arXiv:1809.04187*, 2018.  
-[[Paper]](https://arxiv.org/abs/1809.04187) - [[Code]](https://github.com/duembgen/fourier-deconv)
+[[Paper]](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
 
 - B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018.  
 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
