@@ -11,8 +11,7 @@ author_profile: true
 [[Paper]](https://infoscience.epfl.ch/record/264918)
 
 - **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an assessment metric of axial chromatic aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
-[[Paper]](https://infoscience.epfl.ch/record/255464)
-- [[Code]](https://github.com/duembgen/AAM_ICIP18)
+[[Paper]](https://infoscience.epfl.ch/record/255464) - [[Code]](https://github.com/duembgen/AAM_ICIP18)
 
 
 - F. Dümbgen *, **M. El Helou** *, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (* equal contribution)  
