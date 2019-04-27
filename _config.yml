@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Majed El Helou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "biography for the left-hand sidebar"
   #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
