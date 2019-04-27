@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-For my CV, please contact me by email for an up-to-date version.
+For my resume, please contact me by email for an up-to-date version.
