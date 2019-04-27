@@ -10,24 +10,24 @@ author_profile: true
 - **M. El Helou**, M. Shahpaski, S. Süsstrunk, “Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images,” *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.  
 [[Paper]](https://infoscience.epfl.ch/record/264918)
 
-- **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an assessment metric of axial chromatic aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
+- **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an Assessment Metric of Axial Chromatic Aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
 [[Paper]](https://infoscience.epfl.ch/record/255464) - [[Code]](https://github.com/duembgen/AAM_ICIP18)
 
 
-- F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, “Near-infrared fusion for photorealistic image dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (\* equal contribution)  
+- F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, “Near-Infrared Fusion for Photorealistic Image Dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (\* equal contribution)  
 [[Paper]](https://infoscience.epfl.ch/record/253201) - [[Code]](https://github.com/duembgen/NIRdehazing)
 
-- **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-based deblurring leveraging multispectral chromatic aberration in color and near-infrared joint acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
+- **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
 [[Paper]](https://infoscience.epfl.ch/record/231919)
 
 
 
 ### --- Ideas proposed (and co-supervised) by me ---
-- R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A comparative study on wavelets and residuals in deep super resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
+- R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A Comparative Study on Wavelets and Residuals in Deep Super Resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
 [[Paper]](https://infoscience.epfl.ch/record/262784?ln=en)
 
 ### --- Misc. ---
-- **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-domain optimization for image processing,” *arXiv preprint arXiv:1809.04187*, 2018.  
+- **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-Domain Optimization for Image Processing,” *arXiv preprint arXiv:1809.04187*, 2018.  
 [[Paper]](https://arxiv.org/abs/1809.04187) - [[Code]](https://github.com/duembgen/fourier-deconv)
 
 - B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018.  
