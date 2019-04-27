@@ -35,7 +35,13 @@ author_profile: true
 
 
 
+# Bachelor Studies
+- **M. El Helou**, R. Chanouha and H. Hajj "Multiresolution Bagging for Ensemble Classification," lightning talk and poster session *in Workshop on Model-Based Clustering and Classification (MBC2)*, 2018.
 
+- **M. El Helou**, A. Turkmani, R. Chanouha and S. Charbaji "A Novel ENF Extraction Approach for Region-of-Recording Identification of Media Recordings," *in IEEE International Conference on Signal Processing (ICSP)*, 2016, Vol. 6. pp. 97-108.  
+[[Paper]](http://aircconline.com/csit/csit652.pdf#page=107)
+
+- **M. El Helou**, R. Chanouha and L. Debs "Statistical Voxel-Based Morphometric Image Processing for Automated Diagnosis of Epileptic Lesions from MRI," *in 15<sup>th</sup> FEASAC*, 2016.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
