@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-**M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, “Mobile Robotic Painting of Texture,” *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.
+- **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, “Mobile Robotic Painting of Texture,” *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.
 
-**M. El Helou**, M. Shahpaski, S. Süsstrunk, “Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images,” *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.  
+- **M. El Helou**, M. Shahpaski, S. Süsstrunk, “Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images,” *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.  
 [[Paper]](https://infoscience.epfl.ch/record/264918)
 
-**M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an assessment metric of axial chromatic aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
+- **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an assessment metric of axial chromatic aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
 [[Paper]](https://infoscience.epfl.ch/record/255464)
 -[[Code]](https://github.com/duembgen/AAM_ICIP18)
 
@@ -24,11 +24,11 @@ F. Dümbgen*, **M. El Helou** *, N. Gucevska, and S. Süsstrunk, “Near-infrare
 
 
 
-### Ideas proposed (and co-supervised) by me
-R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A comparative study on wavelets and residuals in deep super resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
+### ---- Ideas proposed (and co-supervised) by me ----
+- R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A comparative study on wavelets and residuals in deep super resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
 [[Paper]](https://infoscience.epfl.ch/record/262784?ln=en)
 
-### Misc.
+### ---- Misc. ----
 **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-domain optimization for image processing,” *arXiv preprint arXiv:1809.04187*, 2018.  
 [[Paper]](https://arxiv.org/abs/1809.04187)
 -[[Code]](https://github.com/duembgen/fourier-deconv)
