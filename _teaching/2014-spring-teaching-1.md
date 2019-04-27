@@ -18,21 +18,21 @@ Coming soon.
 
 2018
 ====
-Extreme video completion algorithms design
+Extreme video completion algorithms design. (MS)
 
-Drone shadow tracking in aerial videos
+Drone shadow tracking in aerial videos. (BS)
 
-Human body pose morphing dataset and analysis
+Human body pose morphing dataset and analysis. (BS)
 
-Frequency domain image super resolution
+Frequency domain image super resolution. (MS)
 
-Music recommendation algorithm 
+Music recommendation algorithm. (BS)
 
-Image location website front-end and gamification
+Image location website front-end and gamification. (MS)
 
 
 2017
 ====
-Least significant bit steganography algorithm
+Least significant bit steganography algorithm. (MS)
 
-Image location website backend, and user analytics
+Image location website backend, and user analytics. (MS)
