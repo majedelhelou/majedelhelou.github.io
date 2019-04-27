@@ -1,5 +1,5 @@
 ---
-title: "Project Supervision"
+title: "Project Supervisor"
 collection: teaching
 type: "Undergraduate projects supervision"
 permalink: /teaching/2014-spring-teaching-1
@@ -9,7 +9,7 @@ location: "Switzerland"
 ---
 
 
-Supervision of project ideas that I propose to undergraduate students, listed per year since 2017.
+Supervision of project ideas that I propose to undergraduate (BS/MS) students, listed per year since 2017.
 
 2019
 =====
