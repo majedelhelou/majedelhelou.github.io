@@ -1,4 +1,6 @@
-
+---
+title: "Doctoral Assistant for the EPFL courses:"
+collection: teaching
 
 [Mise à Niveau](https://man.epfl.ch/) Spring 2019
 
