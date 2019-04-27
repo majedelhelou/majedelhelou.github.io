@@ -24,11 +24,11 @@ author_profile: true
 
 
 
-### ---- Ideas proposed (and co-supervised) by me ----
+### --- Ideas proposed (and co-supervised) by me ---
 - R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A comparative study on wavelets and residuals in deep super resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
 [[Paper]](https://infoscience.epfl.ch/record/262784?ln=en)
 
-### ---- Misc. ----
+### --- Misc. ---
 - **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-domain optimization for image processing,” *arXiv preprint arXiv:1809.04187*, 2018.  
 [[Paper]](https://arxiv.org/abs/1809.04187)
 -[[Code]](https://github.com/duembgen/fourier-deconv)
