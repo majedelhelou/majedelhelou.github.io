@@ -18,7 +18,7 @@ author_profile: true
 [[Paper]](https://infoscience.epfl.ch/record/253201) - [[Code]](https://github.com/duembgen/NIRdehazing)
 
 - **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
-[[Paper]](https://infoscience.epfl.ch/record/231919)
+[[Paper]](https://infoscience.epfl.ch/record/231919) - [[Code]](https://ivrl.epfl.ch/research-2/research-current/research-infrared/page-148973-en-html/)
 
 
 
