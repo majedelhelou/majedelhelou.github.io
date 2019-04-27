@@ -23,7 +23,7 @@ author_profile: true
 
 ### --- Ideas proposed (and co-supervised) by me ---
 - R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A Comparative Study on Wavelets and Residuals in Deep Super Resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
-[[Paper]](https://infoscience.epfl.ch/record/262784?ln=en)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/262784?ln=en)
 
 
 ### --- Misc. ---
