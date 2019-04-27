@@ -182,11 +182,11 @@ collections:
     output: true
     permalink: /:collection/:path/
   #portfolio:
-  #  output: false
-  #  permalink: /:collection/:path/
+    output: false
+    permalink: /:collection/:path/
   #talks:
-  #  output: false
-  #  permalink: /:collection/:path/
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
