@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently in my third PhD year at [EPFL](https://www.epfl.ch/en/home/), the first year was with the EDIC fellowship before joining the Image and Visual Representation Lab ([IVRL](https://ivrl.epfl.ch/)). 
 
-For my CV, you can directly contact me by email. And for my publications with IVRL, please refer to the [publications page](https://ivrl.epfl.ch/publications/) of our lab or [my publications page here](https://majedelhelou.github.io/publications/).
+For my publications with IVRL, please refer to the [publications page](https://ivrl.epfl.ch/publications/) of our lab or [my publications page here](https://majedelhelou.github.io/publications/).
 
 
 
