@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, “Mobile Robotic Painting of Texture,” *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.
+- **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, “Mobile Robotic Painting of Texture,” *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.  
+[<span style="color:red"> [Quadrotor video]</span>](https://youtu.be/YTvr3jCsf0o)
 
 - **M. El Helou**, M. Shahpaski, S. Süsstrunk, “Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images,” *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/264918)
