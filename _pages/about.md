@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently in my third PhD year at [EPFL](https://www.epfl.ch/en/home/), the first year was with the EDIC fellowship before joining the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/).
+I am currently in my third PhD year at [EPFL](https://www.epfl.ch/en/home/), the first year was with the EDIC fellowship before joining the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is centered on computational imaging, spanning optics, signal and image processing, computer vision, and deep learning.
 
 [//]: # (**For my publications** with IVRL, refer to the [publications page](https://ivrl.epfl.ch/publications/) of our lab or [my publications page here](https://majedelhelou.github.io/publications/).)
 
