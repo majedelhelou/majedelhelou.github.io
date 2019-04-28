@@ -11,6 +11,8 @@ location: "Switzerland"
 
 Supervision of project ideas that I propose to undergraduate (BS/MS) students, listed per year since 2017.
 
+Current project proposals can be found [here](https://ivrl.epfl.ch/available-projects/).
+
 2019
 =====
 Coming soon.
