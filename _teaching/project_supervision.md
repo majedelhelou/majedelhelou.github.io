@@ -1,5 +1,5 @@
 ---
-title: "Project Supervisor"
+title: "Project Supervision"
 collection: teaching
 type: "Undergraduate projects supervision"
 permalink: /teaching/2014-spring-teaching-1
