@@ -2,7 +2,7 @@
 title: "Project Supervision"
 collection: teaching
 type: "Undergraduate projects supervision"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/project_supervision
 venue: "EPFL"
 date: 01-01-2017
 location: "Switzerland"
