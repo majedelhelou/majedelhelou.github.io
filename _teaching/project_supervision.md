@@ -1,7 +1,7 @@
 ---
 title: "Project Supervision"
 collection: teaching
-type: "Undergraduate projects supervision"
+type: "Undergraduate project supervision"
 permalink: /teaching/project_supervision
 venue: "EPFL"
 date: 01-01-2017
