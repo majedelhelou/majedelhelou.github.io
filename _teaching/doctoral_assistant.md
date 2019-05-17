@@ -2,7 +2,7 @@
 title: "Doctoral Assistant"
 collection: teaching
 type: "Courses"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/doctoral_assistant
 venue: "EPFL"
 date: 01-01-2017
 location: "Switzerland"
