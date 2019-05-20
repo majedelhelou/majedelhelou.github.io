@@ -27,7 +27,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/265717/) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Drone-Shadow-Tracking)
 
 - R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A Comparative Study on Wavelets and Residuals in Deep Super Resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
-[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/262784?ln=en)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/262784?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Deep-Super-Resolution)
 
 
 ## --- Misc. ---
