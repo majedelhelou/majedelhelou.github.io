@@ -23,7 +23,7 @@ author_profile: true
 
 
 ## --- Ideas proposed (and co-supervised) by me ---
-- X. Zou, R. Zhou, **M. El Helou**, and S. Süsstrunk, “Drone Shadow Tracking,” *arXiv preprint*, 2019.  
+- X. Zou, R. Zhou, **M. El Helou**, and S. Süsstrunk, “Drone Shadow Tracking,” *arXiv preprint arXiv:1905.08214*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/265717/) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Drone-Shadow-Tracking)
 
 - R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A Comparative Study on Wavelets and Residuals in Deep Super Resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
