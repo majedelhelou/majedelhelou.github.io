@@ -15,7 +15,7 @@ Current project proposals can be found [here](https://ivrl.epfl.ch/available-pro
 
 2019
 =====
-Coming soon.
+Extreme video completion generalization and evaluation. (MS, in progress)
 
 
 2018
