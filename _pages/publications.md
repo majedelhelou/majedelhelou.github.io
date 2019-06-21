@@ -12,7 +12,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/264918) - [<span style="color:green"> [Code] </span>](blur_disambiguation.md) - [<span style="color:orange"> [Presentation]</span>](OSA_presentation.pdf)
 
 - **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an Assessment Metric of Axial Chromatic Aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
-[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/AAM_ICIP18)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/AAM_ICIP18) - [<span style="color:orange"> [Poster]</span>](AAM_poster.pdf)
 
 
 - F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, “Near-Infrared Fusion for Photorealistic Image Dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (\* equal contribution)  
