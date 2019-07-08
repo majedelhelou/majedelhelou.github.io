@@ -5,20 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **M. El Helou** and S. Süsstrunk, “ Blind Universal Bayesian Image Denoising with Gaussian Noise Level Learning,” *arXiv preprint arXiv*, 2019.  
+- **M. El Helou** and S. Süsstrunk, "Blind Universal Bayesian Image Denoising with Gaussian Noise Level Learning," *arXiv preprint arXiv*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/267993?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/majedelhelou/BUIFD)
 
-- **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, “Mobile Robotic Painting of Texture,” *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.  
+- **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, "Mobile Robotic Painting of Texture," *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/265370/) - <span style="color:green"> [Code owned by Disney Research] </span> - [<span style="color:orange"> [Poster]</span>](ICRA_A0.pdf) - [<span style="color:red"> [Quadrotor video]</span>](https://youtu.be/YTvr3jCsf0o)
 
-- **M. El Helou**, M. Shahpaski, S. Süsstrunk, “Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images,” *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.  
+- **M. El Helou**, M. Shahpaski, S. Süsstrunk, "Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images," *in Mathematics in Imaging, Imaging and Applied Optics Congress*, OSA, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/264918) - [<span style="color:green"> [Code] </span>](blur_disambiguation.md) - [<span style="color:orange"> [Presentation]</span>](OSA_presentation.pdf)
 
 - **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an Assessment Metric of Axial Chromatic Aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/AAM_ICIP18) - [<span style="color:orange"> [Poster]</span>](AAM_poster.pdf)
 
 
-- F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, “Near-Infrared Fusion for Photorealistic Image Dehazing,” *in IS&T/SPIE Electronic Imaging*, 2018. (\* equal contribution)  
+- F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, "Near-Infrared Fusion for Photorealistic Image Dehazing," *in IS&T/SPIE Electronic Imaging*, 2018. (\* equal contribution)  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/253201) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/NIRdehazing)
 
 - **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
@@ -26,15 +26,15 @@ author_profile: true
 
 
 ## --- Ideas proposed (and co-supervised) by me ---
-- X. Zou, R. Zhou, **M. El Helou**, and S. Süsstrunk, “Drone Shadow Tracking,” *arXiv preprint arXiv:1905.08214*, 2019.  
+- X. Zou, R. Zhou, **M. El Helou**, and S. Süsstrunk, "Drone Shadow Tracking," *arXiv preprint arXiv:1905.08214*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1905.08214) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Drone-Shadow-Tracking)
 
-- R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, “A Comparative Study on Wavelets and Residuals in Deep Super Resolution,” *in IS&T/SPIE Electronic Imaging*, 2019.  
+- R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, "A Comparative Study on Wavelets and Residuals in Deep Super Resolution," *in IS&T/SPIE Electronic Imaging*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/262784?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Deep-Super-Resolution)
 
 
 ## --- Misc. ---
-- **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, “Fourier-Domain Optimization for Image Processing,” *arXiv preprint arXiv:1809.04187*, 2018.  
+- **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
 
 - B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018.  
@@ -43,12 +43,12 @@ author_profile: true
 
   
 # Bachelor Studies
-- **M. El Helou**, R. Chanouha and H. Hajj "Multiresolution Bagging for Ensemble Classification," lightning talk and poster session *in Workshop on Model-Based Clustering and Classification (MBC2)*, 2018.
+- **M. El Helou**, R. Chanouha and H. Hajj, "Multiresolution Bagging for Ensemble Classification," lightning talk and poster session *in Workshop on Model-Based Clustering and Classification (MBC2)*, 2018.
 
-- **M. El Helou**, A. Turkmani, R. Chanouha and S. Charbaji "A Novel ENF Extraction Approach for Region-of-Recording Identification of Media Recordings," *in IEEE International Conference on Signal Processing (ICSP)*, 2016, Vol. 6. pp. 97-108.  
+- **M. El Helou**, A. Turkmani, R. Chanouha and S. Charbaji, "A Novel ENF Extraction Approach for Region-of-Recording Identification of Media Recordings," *in IEEE International Conference on Signal Processing (ICSP)*, 2016, Vol. 6. pp. 97-108.  
 [<span style="color:blue"> [Paper]</span>](http://aircconline.com/csit/csit652.pdf#page=107)
 
-- **M. El Helou**, R. Chanouha and L. Debs "Statistical Voxel-Based Morphometric Image Processing for Automated Diagnosis of Epileptic Lesions from MRI," *in 15<sup>th</sup> FEASAC*, 2016.
+- **M. El Helou**, R. Chanouha and L. Debs, "Statistical Voxel-Based Morphometric Image Processing for Automated Diagnosis of Epileptic Lesions from MRI," *in 15<sup>th</sup> FEASAC*, 2016.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
