@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **M. El Helou** and S. Süsstrunk, “ Blind Universal Bayesian Image Denoising with Gaussian Noise Level Learning,” *arXiv preprint arXiv:1809.04187*, 2019.
-[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/267993?ln=en) - [<span style="color:green"> [Code] </span>](: https://github.com/majedelhelou/BUIFD)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/267993?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/majedelhelou/BUIFD)
 
 - **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, “Mobile Robotic Painting of Texture,” *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/265370/) - <span style="color:green"> [Code owned by Disney Research] </span> - [<span style="color:orange"> [Poster]</span>](ICRA_A0.pdf) - [<span style="color:red"> [Quadrotor video]</span>](https://youtu.be/YTvr3jCsf0o)
