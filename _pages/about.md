@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-~Last updated July 2019~
+-Last updated July 2019-
 Do not hesitate to contact me for any questions regarding publications/code.
 
 I am currently in my third PhD year at [EPFL](https://www.epfl.ch/en/home/), the first year was with the EDIC fellowship before joining the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in image processing and machine learning (touches on signal processing and computational imaging, computer vision, deep learning and optics).
