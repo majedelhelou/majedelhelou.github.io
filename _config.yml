@@ -312,4 +312,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
