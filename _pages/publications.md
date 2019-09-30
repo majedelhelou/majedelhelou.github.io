@@ -25,7 +25,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/253201) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/NIRdehazing)
 
 - **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
-[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code] </span>](https://github.com/majedelhelou/Multispectral_Deblurring) - [<span style="color:orange"> [Presentation]</span>](MSDeblur_presentation.pdf)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code]</span>](https://github.com/majedelhelou/Multispectral_Deblurring) - [<span style="color:orange"> [Presentation]</span>](MSDeblur_presentation.pdf)
 
 
 ## --- Ideas proposed (and co-supervised) by me ---
