@@ -8,4 +8,4 @@ Here is a nice [post](https://www.strollswithmydog.com/the-slanted-edge-method/)
 
 **- Solving the Depth Ambiguity in Single-Perspective Images (OSA Continuum, 2019)**
 
-This is the journal extension of the paper above. We extend our explanations, derivations, experimental tests and results. Aside from the ISO PSF estimation, we also conduct experiments with off-the-shelf blur estimation algorithms all referenced and/or explained in detail in the paper.
+This is the journal extension of the paper above. We extend our explanations, derivations, experimental tests and results. Aside from the ISO PSF estimation, we also conduct experiments with off-the-shelf blur estimation algorithms all of which are referenced or also explained in detail in the paper.
