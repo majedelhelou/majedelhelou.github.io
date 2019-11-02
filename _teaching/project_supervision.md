@@ -15,9 +15,9 @@ Current project proposals can be found [here](https://ivrl.epfl.ch/available-pro
 
 2019
 =====
-Extreme video completion generalization and evaluation. (MS, in progress)
+Extreme video completion generalization and evaluation. (MS)
 
-Machine learning image rendering manipulation. (MS, in progress)
+Deep feature disentanglement and scene relighting. (MS)
 
 
 2018
