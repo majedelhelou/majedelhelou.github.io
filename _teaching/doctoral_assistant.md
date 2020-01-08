@@ -10,6 +10,8 @@ location: "Switzerland"
 
 Teaching assistant for undergraduate courses, listed per semester since 2017.
 
+[Computational Photography](http://edu.epfl.ch/coursebook/en/computational-photography-CS-413) Spring 2020
+
 [Linear Algebra](https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1772095&ww_x_anneeAcad=1866894985&ww_i_section=249847&ww_i_niveau=6683111&ww_c_langue=en) Fall 2019
 
 [Information, Computation and Communication](https://www.epfl.ch/schools/ic/education/icc/) Fall 2018
