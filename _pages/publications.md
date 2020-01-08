@@ -21,7 +21,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code]</span>](https://github.com/duembgen/AAM_ICIP18) - [<span style="color:orange"> [Poster]</span>](AAM_poster.pdf)
 
 
-- F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, "Near-Infrared Fusion for Photorealistic Image Dehazing," *in IS&T/SPIE Electronic Imaging*, 2018. (\* equal contribution)  
+- F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, "Near-Infrared Fusion for Photorealistic Image Dehazing," *in IS&T/SPIE Electronic Imaging*, 2018. (\*equal contribution)  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/253201) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/NIRdehazing)
 
 - **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
