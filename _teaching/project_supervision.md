@@ -15,14 +15,14 @@ Current project proposals can be found [here](https://ivrl.epfl.ch/available-pro
 
 2019
 =====
-Extreme video completion generalization and evaluation. (MS)
+Extreme video completion generalization // Data priors in neural networks. (MS)
 
 Deep feature disentanglement and scene relighting. (MS)
 
 
 2018
 ====
-Extreme video completion algorithms design. (MS)
+Extreme video completion algorithm design. (MS)
 
 Drone shadow tracking in aerial videos. (BS)
 
