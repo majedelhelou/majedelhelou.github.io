@@ -20,7 +20,6 @@ author_profile: true
 - **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an Assessment Metric of Axial Chromatic Aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code]</span>](https://github.com/duembgen/AAM_ICIP18) - [<span style="color:orange"> [Poster]</span>](AAM_poster.pdf)
 
-
 - F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, "Near-Infrared Fusion for Photorealistic Image Dehazing," *in IS&T/SPIE Electronic Imaging*, 2018. (\*equal contribution)  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/253201) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/NIRdehazing)
 
@@ -28,7 +27,12 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code]</span>](https://github.com/majedelhelou/Multispectral_Deblurring) - [<span style="color:orange"> [Presentation]</span>](MSDeblur_presentation.pdf)
 
 
-## --- Ideas proposed (and co-supervised) by me ---
+## --- Tutorial paper ---
+- **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
+[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
+
+
+## --- Ideas proposed/co-supervised ---
 - X. Zou, R. Zhou, **M. El Helou**, and S. Süsstrunk, "Drone Shadow Tracking," *arXiv preprint arXiv:1905.08214*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1905.08214) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Drone-Shadow-Tracking)
 
@@ -36,9 +40,9 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/262784?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Deep-Super-Resolution)
 
 
-## --- Misc. ---
-- **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
-[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
+## --- Workshop papers ---
+- S. Gu, et al., "AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results," *in IEEE International Conference on Computer Vision Workshops (ICCVW)*, 2019.  
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/273892?&ln=en)
 
 - B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018.  
 [<span style="color:blue"> [Paper]</span>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
