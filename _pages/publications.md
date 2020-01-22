@@ -42,7 +42,7 @@ author_profile: true
 
 ## --- Workshop papers ---
 - S. Gu, et al., "AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results," *in IEEE International Conference on Computer Vision Workshops (ICCVW)*, 2019.  
-[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/273892?&ln=en)
+[<span style="color:blue"> [Paper]</span>](https://www.research-collection.ethz.ch/handle/20.500.11850/391538)
 
 - B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018.  
 [<span style="color:blue"> [Paper]</span>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
