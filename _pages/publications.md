@@ -39,7 +39,7 @@ author_profile: true
 
 
 ## --- Ideas proposed/co-supervised ---
-- **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020. 
+- **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
 (to appear)
 
 - X. Zou, R. Zhou, **M. El Helou**, and S. Süsstrunk, "Drone Shadow Tracking," *arXiv preprint arXiv:1905.08214*, 2019.  
