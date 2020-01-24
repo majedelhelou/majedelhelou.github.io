@@ -8,6 +8,10 @@ author_profile: true
 - **M. El Helou** and S. Süsstrunk, "Blind Universal Bayesian Image Denoising with Gaussian Noise Level Learning," *in IEEE Transactions on Image Processing (TIP) (under review)*  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/267993?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/majedelhelou/BUIFD)
 
+- **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AL2: Progressive Activation Loss for Learning General\\ Representations in Classification Neural Networks," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020. (to appear)
+
+- F. Dümbgen, **M. El Helou**, and S. Süsstrunk, "Realizability of Planar Point Embeddings from Angle Measurements," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020. (to appear)
+
 - **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, "Mobile Robotic Painting of Texture," *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/265370/) - <span style="color:green"> [Code owned by Disney Research] </span> - [<span style="color:orange"> [Poster]</span>](ICRA_A0.pdf) - [<span style="color:red"> [Quadrotor video]</span>](https://youtu.be/YTvr3jCsf0o)
 
@@ -33,6 +37,8 @@ author_profile: true
 
 
 ## --- Ideas proposed/co-supervised ---
+- **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020. (to appear)
+
 - X. Zou, R. Zhou, **M. El Helou**, and S. Süsstrunk, "Drone Shadow Tracking," *arXiv preprint arXiv:1905.08214*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1905.08214) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Drone-Shadow-Tracking)
 
