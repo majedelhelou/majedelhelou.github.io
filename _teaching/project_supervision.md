@@ -13,6 +13,11 @@ Supervision of project ideas that I propose to undergraduate (BS/MS) students, l
 
 Current project proposals can be found [here](https://ivrl.epfl.ch/available-projects/).
 
+2020
+=====
+Deep learning and biomedical image restoration. (MS)
+
+
 2019
 =====
 Extreme video completion generalization // Data priors in neural networks. (MS)
