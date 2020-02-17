@@ -15,7 +15,11 @@ Current project proposals can be found [here](https://ivrl.epfl.ch/available-pro
 
 2020
 =====
-Deep learning and biomedical image restoration. (MS)
+Depth of field extension for microscopy cornea scans. (course) *ongoing*
+
+Single-image light source repositioning. (course) *ongoing*
+
+Deep learning and biomedical image restoration. (MS) *ongoing*
 
 
 2019
