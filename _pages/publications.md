@@ -9,10 +9,10 @@ author_profile: true
 (final version to appear soon)[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/267993?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/majedelhelou/BUIFD)
 
 - **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AL2: Progressive Activation Loss for Learning General Representations in Classification Neural Networks," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
-(to appear)[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274623/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/AL2) - [<span style="color:red">[Supp.]</span>](https://infoscience.epfl.ch/record/271444)
+(to appear) [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274623/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/AL2) - [<span style="color:red">[Supp.]</span>](https://infoscience.epfl.ch/record/271444)
 
 - F. Dümbgen, **M. El Helou**, and A. Scholefield, "Realizability of Planar Point Embeddings from Angle Measurements," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
-(to appear)[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274650/) - [<span style="color:green">[Code]</span>](https://github.com/duembgen/AngleRealizability)
+(to appear) [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274650/) - [<span style="color:green">[Code]</span>](https://github.com/duembgen/AngleRealizability)
 
 - **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, "Mobile Robotic Painting of Texture," *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/265370/) - <span style="color:green"> [Code owned by Disney Research] </span> - [<span style="color:orange"> [Poster]</span>](ICRA_A0.pdf) - [<span style="color:red"> [Quadrotor video]</span>](https://youtu.be/YTvr3jCsf0o)
