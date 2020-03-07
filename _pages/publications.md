@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **M. El Helou** and S. Süsstrunk, "Blind Universal Bayesian Image Denoising with Gaussian Noise Level Learning," *in IEEE Transactions on Image Processing (TIP), vol. 29, pp. 4885-4897, 2020.*  
-(code to be updated soon) [<span style="color:blue">[Paper]</span>](https://ieeexplore.ieee.org/document/9024220) - [<span style="color:green"> [Code] </span>](https://github.com/majedelhelou/BUIFD)
+(code to be updated soon) [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/1907.03029) - [<span style="color:green"> [Code] </span>](https://github.com/majedelhelou/BUIFD)
 
 - **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AL2: Progressive Activation Loss for Learning General Representations in Classification Neural Networks," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
 (code to be added soon) [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274623/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/AL2) - [<span style="color:red">[Supp.]</span>](https://infoscience.epfl.ch/record/271444)
