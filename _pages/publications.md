@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% -**M. El Helou**\*, R. Zhou\* and S. Süsstrunk, "W2S: A Joint Denoising and Super-Resolution Dataset," *arXiv preprint arXiv:2003.05961*, 2020.  
+[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green"> [Code] </span>](https://github.com/widefield2sim/w2s) %}
+
+- R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: A Joint Denoising and Super-Resolution Dataset," *arXiv preprint arXiv:2003.05961*, 2020.  
+[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green"> [Code] </span>](https://github.com/widefield2sim/w2s)
+
 - **M. El Helou** and S. Süsstrunk, "Blind Universal Bayesian Image Denoising with Gaussian Noise Level Learning," *in IEEE Transactions on Image Processing (TIP), vol. 29, pp. 4885-4897, 2020.*  
 (code to be updated soon) [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/1907.03029) - [<span style="color:green"> [Code] </span>](https://github.com/majedelhelou/BUIFD)
 
