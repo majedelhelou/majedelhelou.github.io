@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **M. El Helou**\*, R. Zhou\*  and S. Süsstrunk, "Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks," *arXiv preprint arXiv:2003.07119*, 2020. (\*similar contribution)  
+[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/2003.07119) - [<span style="color:green"> [Code] </span>](https://github.com/sfm-sr-denoising/sfm)
+
 - R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: A Joint Denoising and Super-Resolution Dataset," *arXiv preprint arXiv:2003.05961*, 2020. (\*similar contribution)  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green"> [Code] </span>](https://github.com/widefield2sim/w2s)
 
