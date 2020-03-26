@@ -6,41 +6,41 @@ author_profile: true
 ---
 
 - **M. El Helou**\*, R. Zhou\*  and S. Süsstrunk, "Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks," *arXiv preprint arXiv:2003.07119*, 2020. (\*similar contribution)  
-[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/2003.07119) - [<span style="color:green"> [Code] </span>](https://github.com/sfm-sr-denoising/sfm)
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2003.07119) - [<span style="color:green">[Code]</span>](https://github.com/sfm-sr-denoising/sfm)
 
 - R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: A Joint Denoising and Super-Resolution Dataset," *arXiv preprint arXiv:2003.05961*, 2020. (\*similar contribution)  
-[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green"> [Code] </span>](https://github.com/widefield2sim/w2s)
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green">[Code]</span>](https://github.com/widefield2sim/w2s)
 
 - **M. El Helou** and S. Süsstrunk, "Blind Universal Bayesian Image Denoising with Gaussian Noise Level Learning," *in IEEE Transactions on Image Processing (TIP), vol. 29, pp. 4885-4897, 2020.*  
-[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/1907.03029) - [<span style="color:green"> [Code] </span>](https://github.com/majedelhelou/BUIFD) (code to be updated soon)
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/1907.03029) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/BUIFD) (code to be updated soon)
 
-- **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AL2: Progressive Activation Loss for Learning General Representations in Classification Neural Networks," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
+- **M. El Helou**, F. Dümbgen and S. Süsstrunk, "AL2: Progressive Activation Loss for Learning General Representations in Classification Neural Networks," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274623/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/AL2) - [<span style="color:red">[Supp.]</span>](https://infoscience.epfl.ch/record/271444) (code to be added soon)
 
-- F. Dümbgen, **M. El Helou**, and A. Scholefield, "Realizability of Planar Point Embeddings from Angle Measurements," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
+- F. Dümbgen, **M. El Helou** and A. Scholefield, "Realizability of Planar Point Embeddings from Angle Measurements," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274650/) - [<span style="color:green">[Code]</span>](https://github.com/duembgen/AngleRealizability)
 
-- **M. El Helou**, S. Mandt, A. Krause, and P. Beardsley, "Mobile Robotic Painting of Texture," *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.  
-[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/265370/) - <span style="color:green"> [Code owned by Disney Research] </span> - [<span style="color:orange"> [Poster]</span>](ICRA_A0.pdf) - [<span style="color:red"> [Quadrotor video]</span>](https://youtu.be/YTvr3jCsf0o)
+- **M. El Helou**, S. Mandt, A. Krause and P. Beardsley, "Mobile Robotic Painting of Texture," *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.  
+[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/265370/) - <span style="color:green">[Code owned by Disney Research]</span> - [<span style="color:orange">[Poster]</span>](ICRA_A0.pdf) - [<span style="color:red">[Quadrotor video]</span>](https://youtu.be/YTvr3jCsf0o)
 
-- **M. El Helou**, M. Shahpaski, S. Süsstrunk, "Solving the Depth Ambiguity in Single-Perspective Images," *in Imaging Systems, Image Processing, and Displays (OSA Continuum)*, Vol. 2, No. 10, 2019.  
+- **M. El Helou**, M. Shahpaski and S. Süsstrunk, "Solving the Depth Ambiguity in Single-Perspective Images," *in Imaging Systems, Image Processing, and Displays (OSA Continuum)*, Vol. 2, No. 10, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/270833) - [<span style="color:green"> [Code]</span>](blur_disambiguation.md)
 
-- **M. El Helou**, M. Shahpaski, S. Süsstrunk, "Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images," *in Mathematics in Imaging, Imaging and Applied Optics Congress (OSA Math)*, 2019.  
+- **M. El Helou**, M. Shahpaski and S. Süsstrunk, "Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images," *in Mathematics in Imaging, Imaging and Applied Optics Congress (OSA Math)*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/264918) - [<span style="color:green"> [Code]</span>](blur_disambiguation.md) - [<span style="color:orange"> [Presentation]</span>](OSA_presentation.pdf)
 
-- **M. El Helou**, F. Dümbgen, and S. Süsstrunk, "AAM: an Assessment Metric of Axial Chromatic Aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
+- **M. El Helou**, F. Dümbgen and S. Süsstrunk, "AAM: an Assessment Metric of Axial Chromatic Aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code]</span>](https://github.com/duembgen/AAM_ICIP18) - [<span style="color:orange"> [Poster]</span>](AAM_poster.pdf)
 
-- F. Dümbgen\*, **M. El Helou**\*, N. Gucevska, and S. Süsstrunk, "Near-Infrared Fusion for Photorealistic Image Dehazing," *in IS&T/SPIE Electronic Imaging*, 2018. (\*equal contribution)  
+- F. Dümbgen\*, **M. El Helou**\*, N. Gucevska and S. Süsstrunk, "Near-Infrared Fusion for Photorealistic Image Dehazing," *in IS&T/SPIE Electronic Imaging*, 2018. (\*equal contribution)  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/253201) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/NIRdehazing)
 
-- **M. El Helou**, Z. Sadeghipoor, and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
+- **M. El Helou**, Z. Sadeghipoor and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code]</span>](https://github.com/majedelhelou/Multispectral_Deblurring) - [<span style="color:orange"> [Presentation]</span>](MSDeblur_presentation.pdf)
 
 
 ## --- Tutorial paper ---
-- **M. El Helou**, F. Dümbgen, R. Achanta, and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
+- **M. El Helou**, F. Dümbgen, R. Achanta and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
 
 
@@ -48,10 +48,10 @@ author_profile: true
 - **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
 (to appear, April 10 2020)
 
-- X. Zou, R. Zhou, **M. El Helou**, and S. Süsstrunk, "Drone Shadow Tracking," *arXiv preprint arXiv:1905.08214*, 2019.  
+- X. Zou, R. Zhou, **M. El Helou** and S. Süsstrunk, "Drone Shadow Tracking," *arXiv preprint arXiv:1905.08214*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1905.08214) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Drone-Shadow-Tracking)
 
-- R. Zhou, F. Lahoud, **M. El Helou**, and S. Süsstrunk, "A Comparative Study on Wavelets and Residuals in Deep Super Resolution," *in IS&T/SPIE Electronic Imaging*, 2019.  
+- R. Zhou, F. Lahoud, **M. El Helou** and S. Süsstrunk, "A Comparative Study on Wavelets and Residuals in Deep Super Resolution," *in IS&T/SPIE Electronic Imaging*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/262784?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Deep-Super-Resolution)
 
 
