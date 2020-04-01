@@ -15,9 +15,9 @@ Current project proposals can be found [here](https://ivrl.epfl.ch/available-pro
 
 2020
 =====
-Depth of field extension of microscopy cornea scans with classical methods. (3 MS) *ongoing*
+Depth-of-field extension of microscopy cornea scans with classical methods. (3 MS) *ongoing*
 
-Depth of field extension of microscopy cornea scans with machine learning. (3 MS) *ongoing*
+Depth-of-field extension of microscopy cornea scans with machine learning. (3 MS) *ongoing*
 
 Video denoising on FPGA. (2 MS, student-proposed project) *ongoing*
 
