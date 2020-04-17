@@ -46,7 +46,7 @@ author_profile: true
 
 ## --- Ideas proposed/co-supervised ---
 - **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
-[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/277003/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/ADEFAN) - [<span style="color:red">[Dataset]</span>](https://ieee-dataport.org/documents/extreme-video-completion-dataset)
+[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/277003/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/ADEFAN) - [<span style="color:red">[Dataset]</span>](https://ieee-dataport.org/documents/extreme-video-completion-dataset) - [<span style="color:orange">[Presentation]</span>](ADEFAN_slides.pdf) - [<span style="color:red">[Video]</span>](ADEFAN_video.mp4)
 
 - X. Zou, R. Zhou, **M. El Helou** and S. Süsstrunk, "Drone Shadow Tracking," *arXiv preprint arXiv:1905.08214*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1905.08214) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Drone-Shadow-Tracking)
