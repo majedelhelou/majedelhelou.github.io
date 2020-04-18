@@ -15,7 +15,7 @@ author_profile: true
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/1907.03029) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/BUIFD)
 
 - **M. El Helou**, F. Dümbgen and S. Süsstrunk, "AL2: Progressive Activation Loss for Learning General Representations in Classification Neural Networks," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
-[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274623/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/AL2) - [<span style="color:red">[Supp.]</span>](https://infoscience.epfl.ch/record/271444)
+[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274623/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/AL2) - [<span style="color:orange">[Presentation]</span>](AL2_slides.pdf) - [<span style="color:red">[Supp.]</span>](https://infoscience.epfl.ch/record/271444) - [<span style="color:red">[Video]</span>](AL2_video.mp4)
 
 - F. Dümbgen, **M. El Helou** and A. Scholefield, "Realizability of Planar Point Embeddings from Angle Measurements," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274650/) - [<span style="color:green">[Code]</span>](https://github.com/duembgen/AngleRealizability) - [<span style="color:red">[Video]</span>](https://www.youtube.com/watch?v=KlWnpQNWoJg)
