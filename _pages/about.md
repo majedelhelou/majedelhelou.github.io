@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*~Last updated March 2020~  
-Do not hesitate to contact me with questions regarding publications/code.*
+*~Last updated March 2020~*
 
 I am in my fourth PhD year at EPFL, with the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (touches on signal/image processing, estimation theory, deep learning, computer vision, and optics).
 
@@ -20,5 +19,6 @@ EPFL students looking for IC semester projects can send their own proposal (list
 
 *Contact details*
 ---
-You can find my contact details on my EPFL [personal directory](https://ivrl.epfl.ch/people/majed/).
+*Feel free to contact me for questions regarding publications/code.*
+You can find contact details on my EPFL [directory](https://ivrl.epfl.ch/people/majed/).
 
