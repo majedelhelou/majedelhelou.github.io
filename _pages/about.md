@@ -20,5 +20,6 @@ EPFL students looking for IC semester projects can send their own proposal (list
 *Contact details*
 ---
 *Feel free to contact me for questions regarding publications/code.*
+
 You can find contact details on my EPFL [directory](https://ivrl.epfl.ch/people/majed/).
 
