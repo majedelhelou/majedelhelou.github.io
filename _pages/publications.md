@@ -15,10 +15,10 @@ author_profile: true
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/1907.03029) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/BUIFD)
 
 - **M. El Helou**, F. Dümbgen and S. Süsstrunk, "AL2: Progressive Activation Loss for Learning General Representations in Classification Neural Networks," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
-[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274623/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/AL2) - [<span style="color:orange">[Presentation]</span>](AL2_slides.pdf) - [<span style="color:red">[Supp.]</span>](https://infoscience.epfl.ch/record/271444) - [<span style="color:red">[Video]</span>](AL2_video.mp4)
+[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274623/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/AL2) - [<span style="color:orange">[Slides]</span>](AL2_slides.pdf) - [<span style="color:red">[Supp.]</span>](https://infoscience.epfl.ch/record/271444) - [<span style="color:red">[Video]</span>](AL2_video.mp4)
 
 - F. Dümbgen, **M. El Helou** and A. Scholefield, "Realizability of Planar Point Embeddings from Angle Measurements," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
-[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274650/) - [<span style="color:green">[Code]</span>](https://github.com/duembgen/AngleRealizability) - [<span style="color:orange">[Presentation]</span>](AngleRealizability_slides.pdf) - [<span style="color:red">[Video]</span>](https://youtu.be/XZi0NK60NCI)
+[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/274650/) - [<span style="color:green">[Code]</span>](https://github.com/duembgen/AngleRealizability) - [<span style="color:orange">[Slides]</span>](AngleRealizability_slides.pdf) - [<span style="color:red">[Video]</span>](https://youtu.be/XZi0NK60NCI)
 
 - **M. El Helou**, S. Mandt, A. Krause and P. Beardsley, "Mobile Robotic Painting of Texture," *in IEEE International Conference on Robotics and Automation (ICRA)*, 2019.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/265370/) - <span style="color:green">[Code owned by Disney Research]</span> - [<span style="color:orange">[Poster]</span>](ICRA_A0.pdf) - [<span style="color:red">[Quadrotor video]</span>](https://youtu.be/YTvr3jCsf0o)
@@ -27,7 +27,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/270833) - [<span style="color:green"> [Code]</span>](blur_disambiguation.md)
 
 - **M. El Helou**, M. Shahpaski and S. Süsstrunk, "Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images," *in Mathematics in Imaging, Imaging and Applied Optics Congress (OSA Math)*, 2019.  
-[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/264918) - [<span style="color:green"> [Code]</span>](blur_disambiguation.md) - [<span style="color:orange"> [Presentation]</span>](OSA_presentation.pdf)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/264918) - [<span style="color:green"> [Code]</span>](blur_disambiguation.md) - [<span style="color:orange"> [Slides]</span>](OSA_presentation.pdf)
 
 - **M. El Helou**, F. Dümbgen and S. Süsstrunk, "AAM: an Assessment Metric of Axial Chromatic Aberration," *in IEEE International Conference on Image Processing (ICIP)*, 2018.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/255464) - [<span style="color:green"> [Code]</span>](https://github.com/duembgen/AAM_ICIP18) - [<span style="color:orange"> [Poster]</span>](AAM_poster.pdf)
@@ -36,7 +36,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/253201) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/NIRdehazing)
 
 - **M. El Helou**, Z. Sadeghipoor and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
-[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code]</span>](https://github.com/majedelhelou/Multispectral_Deblurring) - [<span style="color:orange"> [Presentation]</span>](MSDeblur_presentation.pdf)
+[<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code]</span>](https://github.com/majedelhelou/Multispectral_Deblurring) - [<span style="color:orange"> [Slides]</span>](MSDeblur_presentation.pdf)
 
 
 ## --- Tutorial paper ---
@@ -46,7 +46,7 @@ author_profile: true
 
 ## --- Ideas proposed/co-supervised ---
 - **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
-[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/277003/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/ADEFAN) - [<span style="color:orange">[Presentation]</span>](ADEFAN_slides.pdf) - [<span style="color:red">[Dataset]</span>](https://ieee-dataport.org/documents/extreme-video-completion-dataset) - [<span style="color:red">[Video]</span>](ADEFAN_video.mp4)
+[<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/277003/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/ADEFAN) - [<span style="color:orange">[Slides]</span>](ADEFAN_slides.pdf) - [<span style="color:red">[Dataset]</span>](https://ieee-dataport.org/documents/extreme-video-completion-dataset) - [<span style="color:red">[Video]</span>](ADEFAN_video.mp4)
 
 - X. Zou, R. Zhou, **M. El Helou** and S. Süsstrunk, "Drone Shadow Tracking," *arXiv preprint arXiv:1905.08214*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1905.08214) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Drone-Shadow-Tracking)
