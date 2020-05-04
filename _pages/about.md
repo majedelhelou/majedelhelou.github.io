@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*~Last updated March 2020~*
+:hourglass_flowing_sand: *~:hourglass_flowing_sand:Last updated March 2020~*
 
 I am in my fourth PhD year at EPFL, with the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (touches on signal/image processing, estimation theory, deep learning, computer vision, and optics).
 
