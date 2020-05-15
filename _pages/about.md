@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-*:hourglass_flowing_sand: ~Last Update: March 2020~ :hourglass_flowing_sand:*
+*:hourglass_flowing_sand: ~Last Update: May 2020~ :hourglass_flowing_sand:*
+
+**News**: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) starting May 13th.
 
 I am in my fourth PhD year at EPFL, with the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (touches on signal/image processing, estimation theory, deep learning, computer vision, and optics).
 
