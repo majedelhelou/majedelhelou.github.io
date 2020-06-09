@@ -15,15 +15,15 @@ Current project proposals can be found [here](https://ivrl.epfl.ch/available-pro
 
 2020
 =====
-Depth-of-field extension of microscopy cornea scans with classical methods. (3 MS) *ongoing*
+Depth-of-field extension of microscopy cornea scans with classical methods. (3 MS)
 
-Depth-of-field extension of microscopy cornea scans with machine learning. (3 MS) *ongoing*
+Depth-of-field extension of microscopy cornea scans with machine learning. (3 MS)
 
-Video denoising on FPGA. (2 MS, student-proposed project) *ongoing*
+Video denoising on FPGA. (2 MS, student-proposed project)
 
-Single-image light source repositioning with deep learning. (6 MS) *ongoing*
+Single-image light source repositioning with deep learning. (6 MS)
 
-Deep learning on biomedical image restoration. (MS) *ongoing*
+Deep learning on biomedical image restoration. (MS)
 
 
 2019
