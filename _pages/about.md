@@ -10,7 +10,7 @@ redirect_from:
 
 *:hourglass_flowing_sand: ~Last Update: May 2020~ :hourglass_flowing_sand:*
 
-**News**: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) starting May 13th (the deadline to submit results is July 10th).
+**News**: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671). The deadline to submit results is July 10, 2020 (same deadline for paper submissions to our workshop).
 
 ---
 
