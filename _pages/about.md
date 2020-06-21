@@ -16,7 +16,7 @@ redirect_from:
 
 I am a PhD student at EPFL, with the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (touches on signal/image processing, estimation theory, deep learning, computer vision, and optics).
 
-EPFL students looking for IC semester projects can send their own proposal (list of previously-supervised projects: [here](https://majedelhelou.github.io/teaching/project_supervision)), or reach out to learn about the newest projects (one project is open for Fall 2021: "Learning with Uncertainty").
+EPFL students looking for IC semester projects can send their own proposal (list of previously-supervised projects: [here](https://majedelhelou.github.io/teaching/project_supervision)), or reach out to learn about the newest projects (one project is open for Fall 2020-2021: "Learning with Uncertainty").
 
 
 *Contact details*
