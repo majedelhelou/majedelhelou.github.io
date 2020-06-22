@@ -27,7 +27,7 @@ Papers, code, and presentations can be found on my [publications](https://majede
 * *Jun 2019*: Our paper on spectral defocus disambiguation is accepted in OSA Math, with its extension in OSA Continuum.
 * *May 2019*: Our paper on automated robotic painting is accepted in IEEE ICRA.
 * *Oct 2018*: My PhD thesis presentation wins the first place of the people's choice award at IEEE ICIP.
-* *Jun 2018*: I am on leave for a research internship at Disney Research.
+* *Jun 2018*: I am on leave for a research internship at Disney Research, Computer Vision and Mobile Robots group.
 * *May 2018*: Our chromatic aberration assessment paper is accepted in IEEE ICIP.
 * *Mar 2018*: We won the honorable mention award in the CVPR NTIRE workshop.
 * *May 2017*: Our multi-spectral deblurring paper is accepted in IEEE ICIP.
