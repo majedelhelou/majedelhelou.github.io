@@ -23,10 +23,10 @@ EPFL students looking for IC semester projects can send their own proposal (list
 Papers, code, and presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
 * *May 2020*: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) that I am co-organizing. The deadline to submit results and papers to our competition and workshop is July 10, 2020.
 * *Mar 2020*: Our paper on image denoising, later presented in the CVPR CDD workshop, is accepted in IEEE TIP.
-* *Jan 2020*: Our 3 papers on extreme video completion, network regularization and point embeddings were accepted in IEEE ICASSP.
+* *Jan 2020*: Our 3 papers on extreme video completion, network regularization and point embeddings are accepted in IEEE ICASSP.
 * *Jun 2019*: Our paper on spectral defocus disambiguation is accepted in OSA Math, with its extension in OSA Continuum.
 * *May 2019*: Our paper on automated robotic painting is accepted in IEEE ICRA.
-* *Oct 2018*: My PhD thesis presentation won the people's choice award at IEEE ICIP.
+* *Oct 2018*: My PhD thesis presentation wins the first place of the people's choice award at IEEE ICIP.
 * *Jun 2018*: I am on leave for a research internship at Disney Research.
 * *May 2018*: Our chromatic aberration assessment paper is accepted in IEEE ICIP.
 * *Mar 2018*: We won the honorable mention award in the CVPR NTIRE workshop.
