@@ -20,6 +20,7 @@ EPFL students looking for IC semester projects can send their own proposal (list
 
 *Research news*
 ---
+Papers, code, and presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
 * *May 2020*: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) that I am co-organizing. The deadline to submit results and papers to our competition and workshop is July 10, 2020.
 * *Mar 2020*: Our paper on image denoising, later presented in the CVPR CDD workshop, is accepted in IEEE TIP.
 * *Jan 2020*: Our 3 papers on extreme video completion, network regularization and point embeddings were accepted in IEEE ICASSP.
@@ -36,6 +37,5 @@ EPFL students looking for IC semester projects can send their own proposal (list
 *Contact details*
 ---
 *Feel free to contact me for questions regarding publications/code.*
-
 You can find contact details on my EPFL [directory](https://ivrl.epfl.ch/people/majed/).
 
