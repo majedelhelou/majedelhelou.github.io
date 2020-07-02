@@ -22,7 +22,7 @@ EPFL students looking for IC semester projects can send their own proposal (list
 ---
 Papers, code, and presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
 * *Jul 2020*: Our paper on the analysis of frequency-conditional learning in deep super-resolution and denoising networks, and a stochastic masking method to improve both tasks, is accepted in ECCV.
-* *May 2020*: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) that I am co-organizing. The deadline to submit results and papers to our competition and workshop is July 10, 2020.
+* *May 2020*: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) that I am co-organizing. The deadline to submit results and papers to our competition and workshop is July 17.
 * *Mar 2020*: Our paper on image denoising, later presented in the CVPR CDD workshop, is accepted in IEEE TIP.
 * *Jan 2020*: Our 3 papers on extreme video completion, network regularization and point embeddings are accepted in IEEE ICASSP.
 * *Jun 2019*: Our paper on spectral defocus disambiguation is accepted in OSA Math, with its extension in OSA Continuum.
