@@ -36,11 +36,6 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code]</span>](https://github.com/majedelhelou/Multispectral_Deblurring) - [<span style="color:orange"> [Slides]</span>](MSDeblur_presentation.pdf)
 
 
-## --- Tutorial paper ---
-- **M. El Helou**, F. Dümbgen, R. Achanta and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
-[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
-
-
 ## --- Ideas proposed/co-supervised ---
 - **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/277003/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/ADEFAN) - [<span style="color:orange">[Slides]</span>](ADEFAN_slides.pdf) - [<span style="color:red">[Dataset]</span>](https://ieee-dataport.org/documents/extreme-video-completion-dataset) - [<span style="color:red">[Video]</span>](ADEFAN_video.mp4)
@@ -62,6 +57,10 @@ author_profile: true
 - B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018.  
 [<span style="color:blue"> [Paper]</span>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
 
+
+## --- Tutorial paper ---
+- **M. El Helou**, F. Dümbgen, R. Achanta and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
+[<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
 
   
 # Bachelor Studies
