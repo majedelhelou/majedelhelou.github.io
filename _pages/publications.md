@@ -47,7 +47,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/262784?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Deep-Super-Resolution)
 
 
-## --- Workshop papers ---
+## --- Workshop publications ---
 - R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: A Joint Denoising and Super-Resolution Dataset," *arXiv preprint arXiv:2003.05961*, 2020. (\*similar contribution)  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green">[Code]</span>](https://github.com/widefield2sim/w2s) - [<span style="color:red">[Supp.]</span>](https://github.com/widefield2sim/w2s/blob/master/w2s_supp.pdf)
 
