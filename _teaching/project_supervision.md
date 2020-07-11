@@ -20,7 +20,7 @@ Depth-of-field extension of microscopy cornea scans with machine learning. (3 MS
 
 Video denoising on FPGA. (2 MS, student-proposed project)
 
-Single-image light source repositioning with deep learning. (6 MS)
+Single-image light source repositioning with deep learning. (5 MS)
 
 Deep learning on biomedical image restoration. (MS)
 
