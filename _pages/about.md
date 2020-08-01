@@ -23,7 +23,7 @@ EPFL students looking for IC semester projects can send their own proposal (list
 Papers, code, and presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
 * *Aug 2020*: I am on leave for a research internship with Facebook Reality Labs.
 * *Jul 2020*: Our paper on the analysis of frequency-conditional learning in deep super-resolution and denoising networks, and a stochastic masking method to improve both tasks, is accepted in ECCV.
-* *Jul 2020*: Our paper on joint denoising and super-resolution in microscopy imaging is accepted as an oral paper in ECCVW.
+* *Jul 2020*: Our paper on joint denoising and super-resolution in microscopy imaging is accepted as an oral paper in BioImage Computing, ECCVW.
 * *May 2020*: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) that I am co-organizing. The deadline to submit results and papers to our competition and workshop is July 17.
 * *Mar 2020*: Our paper on image denoising, later presented in the CVPR CDD workshop, is accepted in IEEE TIP.
 * *Jan 2020*: Our 3 papers on extreme video completion, network regularization and point embeddings are accepted in IEEE ICASSP.
