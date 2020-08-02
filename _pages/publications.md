@@ -48,7 +48,7 @@ author_profile: true
 
 
 ## --- Workshop publications ---
-- R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: Microscopy Data with Joint Denoising and Super-Resolution for Widefield to SIM Mapping," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020. (\*similar contribution) (Oral)  
+- R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: Microscopy Data with Joint Denoising and Super-Resolution for Widefield to SIM Mapping," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020. (\*similar contribution)  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green">[Code]</span>](https://github.com/widefield2sim/w2s) - [<span style="color:red">[Supp.]</span>](https://github.com/widefield2sim/w2s/blob/master/w2s_supp.pdf)
 
 - S. Gu, et al., "AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results," *in IEEE International Conference on Computer Vision Workshops (ICCVW)*, 2019.  
