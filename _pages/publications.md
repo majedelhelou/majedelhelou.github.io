@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Post-Graduate Publications"
+title: "PhD Publications"
 permalink: /publications/
 author_profile: true
 ---
