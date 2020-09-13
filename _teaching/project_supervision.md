@@ -14,6 +14,12 @@ Supervision of project ideas that I propose to undergraduate (BS/MS) students, l
 
 2020
 =====
+Learning degraded image classification with uncertainty. (MS, ongoing)
+
+Exploring ensembles and uncertainty minimization in denoising networks. (MS, ongoing)
+
+Deep SIM reconstruction with reduced structured-illumination sampling. (MS, ongoing)
+
 Depth-of-field extension of microscopy cornea scans with classical methods. (3 MS)
 
 Depth-of-field extension of microscopy cornea scans with machine learning. (3 MS)
