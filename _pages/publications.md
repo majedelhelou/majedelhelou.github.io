@@ -49,7 +49,7 @@ author_profile: true
 
 ## --- Workshop publications ---
 - **M. El Helou**, R. Zhou, S. Süsstrunk, R. Timofte, et al., "AIM 2020: Scene Relighting and Illumination Estimation Challenge," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020.  
-<span style="color:blue">[Paper TBD]</span> - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/VIDIT) - <span style="color:red">[Supp. TBD]</span> - [<span style="color:red">[Video]</span>](https://www.youtube.com/watch?v=Zn7R0fbXJZw)
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2009.12798) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/VIDIT) - [<span style="color:red">[Supp.]</span>](https://github.com/majedelhelou/VIDIT/blob/master/AIM_2020_Relighting_Supp.pdf) - [<span style="color:red">[Video]</span>](https://www.youtube.com/watch?v=Zn7R0fbXJZw)
 
 - R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: Microscopy Data with Joint Denoising and Super-Resolution for Widefield to SIM Mapping," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020. (\*similar contribution)  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green">[Code]</span>](https://github.com/ivrl/w2s) - [<span style="color:red">[Supp.]</span>](https://github.com/IVRL/w2s/blob/master/w2s_supp.pdf) - [<span style="color:red">[Video]</span>](https://www.youtube.com/watch?v=mStALVFBcSA)
