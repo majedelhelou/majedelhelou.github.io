@@ -14,7 +14,7 @@ Supervision of project ideas that I propose to undergraduate (BS/MS) students, l
 
 2020
 =====
-Learning degraded image classification with uncertainty. (MS, ongoing)
+Degraded image classification using restoration data fidelity. (MS, ongoing)
 
 Exploring ensembles and uncertainty minimization in denoising networks. (MS, ongoing)
 
