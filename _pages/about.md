@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*:hourglass_flowing_sand: ~Last Update: Sept 2020~ :hourglass_flowing_sand:*
+*:hourglass_flowing_sand: ~Last Update: Nov 2020~ :hourglass_flowing_sand:*
 
 ---
 
