@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 *:hourglass_flowing_sand: ~Last Update: Nov 2020~ :hourglass_flowing_sand:*
-
-<code published for [BIGPrior](https://github.com/majedelhelou/BIGPrior)>
+<<code published for [BIGPrior](https://github.com/majedelhelou/BIGPrior)>>
 ---
 
-I am a PhD student at EPFL, with the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing, estimation theory, deep learning, low-level computer vision, and optics).
+I am a PhD student at EPFL, with the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing, estimation theory, deep learning, computer vision, and optics).
 
 
 
