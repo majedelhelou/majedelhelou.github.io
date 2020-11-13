@@ -64,7 +64,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
 
 
-## --- Tutorial paper ---
+## --- Technical tutorial ---
 - **M. El Helou**, F. Dümbgen, R. Achanta and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code] </span>](https://github.com/duembgen/fourier-deconv)
 
