@@ -46,7 +46,7 @@ Drone shadow tracking in aerial videos. (BS)
 
 Human body pose morphing dataset and analysis. (BS)
 
-Frequency-domain image super-resolution. (MS)
+Frequency-domain image super-resolution. (3 MS)
 
 
 2017
