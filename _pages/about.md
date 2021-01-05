@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*:hourglass_flowing_sand: ~Last Update: Nov 2020~ :hourglass_flowing_sand:*
+*:hourglass_flowing_sand: ~Last Update: Jan 2021~ :hourglass_flowing_sand:*
 
 <<code published for [BIGPrior](https://github.com/majedelhelou/BIGPrior)>>
 ---
