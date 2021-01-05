@@ -20,9 +20,10 @@ I am a PhD student at EPFL, with the Image and Visual Representation Lab [IVRL](
 *PhD news*
 ---
 Papers, code, and presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
+* *Jan 2021*: We hold the second edition of the [relighting challenges](https://competitions.codalab.org/competitions/28030) in the CVPR NTIRE workshop, using [VIDIT](https://github.com/majedelhelou/VIDIT) data with depth information.
 * *Jul 2020*: Our paper on the analysis of frequency-conditional learning in deep super-resolution and denoising networks, and a stochastic masking method to improve both tasks, is accepted in ECCV.
 * *Jul 2020*: Our paper on joint denoising and super-resolution in microscopy imaging is accepted in BioImage Computing, ECCVW.
-* *May 2020*: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) that I am co-organizing. The deadline to submit results and papers to our competition and workshop is July 17.
+* *May 2020*: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) that we are co-organizing.
 * *Mar 2020*: Our paper on image denoising, later presented in the CVPR CDD workshop, is accepted in IEEE TIP.
 * *Jan 2020*: Our 3 papers on extreme video completion, network regularization and point embeddings are accepted in IEEE ICASSP.
 * *Jun 2019*: Our paper on spectral defocus disambiguation is accepted in OSA Math, with its extension in OSA Continuum.
