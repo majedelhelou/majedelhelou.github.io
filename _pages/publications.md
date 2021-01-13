@@ -40,6 +40,9 @@ author_profile: true
 
 
 ## --- Ideas proposed/co-supervised ---
+- X. Ma, X. Lin, **M. El Helou** and S. Süsstrunk, "Deep Gaussian Denoiser Epistemic Uncertainty and Decoupled Dual-Attention Fusion," *arXiv preprint arXiv:2101.04631*, 2021.  
+[<span style="color:blue">[Paper]</span>](http://arxiv.org/abs/2101.04631) - [<span style="color:green">[Code]</span>](https://github.com/IVRL/DEU) - [<span style="color:red">[Supp]</span>](https://github.com/IVRL/DEU/blob/main/supplementary_material.pdf)
+
 - **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/277003/) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/ADEFAN) - [<span style="color:orange">[Slides]</span>](ADEFAN_slides.pdf) - [<span style="color:red">[Dataset]</span>](https://ieee-dataport.org/documents/extreme-video-completion-dataset) - [<span style="color:red">[Video]</span>](ADEFAN_video.mp4)
 
