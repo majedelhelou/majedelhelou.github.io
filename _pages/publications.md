@@ -74,7 +74,7 @@ author_profile: true
 
   
 # Bachelor Studies
-- **M. El Helou**, R. Chanouha and H. Hajj, "Multiresolution Bagging for Ensemble Classification," lightning talk and poster session *in Workshop on Model-Based Clustering and Classification (MBC2)*, 2018.
+- **M. El Helou**, R. Chanouha and H. Hajj, "Multiresolution Bagging for Ensemble Classification," lightning talk and poster session *in Workshop on Model-Based Clustering and Classification (MBC2)*, 2016.
 
 - **M. El Helou**, A. Turkmani, R. Chanouha and S. Charbaji, "A Novel ENF Extraction Approach for Region-of-Recording Identification of Media Recordings," *in IEEE International Conference on Signal Processing (ICSP)*, 2016, Vol. 6. pp. 97-108.  
 [<span style="color:blue"> [Paper]</span>](http://aircconline.com/csit/csit652.pdf#page=107)
