@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PhD Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -53,7 +53,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/262784?ln=en) - [<span style="color:green"> [Code] </span>](https://github.com/IVRL/Deep-Super-Resolution)
 
 
-## --- Workshop publications ---
+## --- Workshops ---
 - **M. El Helou**, R. Zhou, S. Süsstrunk, R. Timofte, et al., "AIM 2020: Scene Relighting and Illumination Estimation Challenge," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2009.12798) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/VIDIT) - [<span style="color:red">[Supp.]</span>](https://github.com/majedelhelou/VIDIT/blob/master/AIM_2020_Relighting_Supp.pdf) - [<span style="color:red">[Video]</span>](https://www.youtube.com/watch?v=Zn7R0fbXJZw)
 
