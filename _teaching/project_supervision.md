@@ -12,6 +12,11 @@ location: "Switzerland"
 Supervision of project ideas that I propose to undergraduate (BS/MS) students, listed per year since 2017.
 
 
+2021
+=====
+Controllable confidence-based image restoration. (3 MS, ongoing)
+
+
 2020
 =====
 Degraded image classification using restoration data fidelity. (MS)
