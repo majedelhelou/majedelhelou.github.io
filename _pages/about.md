@@ -20,6 +20,7 @@ I am a PhD student at EPFL, with the Image and Visual Representation Lab [IVRL](
 *PhD news*
 ---
 Papers, code, and presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
+* *Mar 2021*: Our BIGPrior poster is accepted for presentation at ICCP.
 * *Jan 2021*: We hold the second edition of the [relighting challenges](https://competitions.codalab.org/competitions/28030) in the CVPR NTIRE workshop, using [VIDIT](https://github.com/majedelhelou/VIDIT) data with depth information.
 * *Jul 2020*: Our paper on the analysis of frequency-conditional learning in deep super-resolution and denoising networks, and a stochastic masking method to improve both tasks, is accepted in ECCV.
 * *Jul 2020*: Our paper on joint denoising and super-resolution in microscopy imaging is accepted in BioImage Computing, ECCVW.
