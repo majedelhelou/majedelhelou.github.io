@@ -13,7 +13,7 @@ redirect_from:
 <<code published for [BIGPrior](https://github.com/majedelhelou/BIGPrior)>>
 ---
 
-I am a PhD student at EPFL, with the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing, estimation theory, deep learning, computer vision, and optics).
+I am a postdoctoral research scientist at EPFL, with the Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing, estimation theory, deep learning, computer vision, and optics).
 
 
 
