@@ -16,11 +16,11 @@ Supervision of project ideas that I propose to undergraduate (BS/MS) students, l
 =====
 Controllable confidence-based image restoration. (3 MS, ongoing)
 
+Degraded image classification using restoration data fidelity. (MS)
+
 
 2020
 =====
-Degraded image classification using restoration data fidelity. (MS)
-
 Exploring ensembles and uncertainty minimization in denoising networks. (MS)
 
 Depth-of-field extension of microscopy cornea scans with classical methods. (3 MS)
