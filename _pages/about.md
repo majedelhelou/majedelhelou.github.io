@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*:hourglass_flowing_sand: ~Last Update: April 2021~ :hourglass_flowing_sand:*
+*:hourglass_flowing_sand: ~Last Update: May 2021~ :hourglass_flowing_sand:*
 
 <<code published for [BIGPrior](https://github.com/majedelhelou/BIGPrior)>>
 ---
@@ -20,7 +20,8 @@ I am a postdoctoral research scientist at EPFL, with the Image and Visual Repres
 *PhD news*
 ---
 Papers, code, and presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
-* *Mar 2021*: Our BIGPrior poster is accepted for presentation at ICCP.
+* *May 2021*: Our denoising paper, exploiting network epistemic uncertainty and frequency manipulations to create a self ensemble, is accepted at IEEE ICIP.
+* *Mar 2021*: Our BIGPrior poster is accepted for presentation at IEEE ICCP.
 * *Jan 2021*: We hold the second edition of the [relighting challenges](https://competitions.codalab.org/competitions/28030) in the CVPR NTIRE workshop, using [VIDIT](https://github.com/majedelhelou/VIDIT) data with depth information.
 * *Jul 2020*: Our paper on the analysis of frequency-conditional learning in deep super-resolution and denoising networks, and a stochastic masking method to improve both tasks, is accepted in ECCV.
 * *Jul 2020*: Our paper on joint denoising and super-resolution in microscopy imaging is accepted in BioImage Computing, ECCVW.
