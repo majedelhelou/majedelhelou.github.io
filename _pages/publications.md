@@ -40,7 +40,7 @@ author_profile: true
 
 
 ## --- Ideas proposed/co-supervised ---
-- X. Ma, X. Lin, **M. El Helou** and S. Süsstrunk, "Deep Gaussian Denoiser Epistemic Uncertainty and Decoupled Dual-Attention Fusion," *arXiv preprint arXiv:2101.04631*, 2021. *under submission*  
+- X. Ma, X. Lin, **M. El Helou** and S. Süsstrunk, "Deep Gaussian Denoiser Epistemic Uncertainty and Decoupled Dual-Attention Fusion," *in IEEE International Conference on Image Processing (ICIP)*, 2021.  
 [<span style="color:blue">[Paper]</span>](http://arxiv.org/abs/2101.04631) - [<span style="color:green">[Code]</span>](https://github.com/IVRL/DEU) - [<span style="color:red">[Supp]</span>](https://github.com/IVRL/DEU/blob/main/supplementary_material.pdf)
 
 - **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
