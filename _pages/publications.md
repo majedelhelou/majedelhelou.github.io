@@ -39,7 +39,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code]</span>](https://github.com/majedelhelou/Multispectral_Deblurring) - [<span style="color:orange"> [Slides]</span>](MSDeblur_presentation.pdf)
 
 
-## --- Ideas proposed/co-supervised ---
+## --- Ideas proposed and co-supervised ---
 - X. Lin, D. Bhattacharjee, **M. El Helou** and S. Süsstrunk, "Fidelity Estimation Improves Noisy-Image Classification with Pretrained Networks," *under submission*.  
 [<span style="color:blue">[Paper TBD]</span>](http://arxiv.org/) - [<span style="color:green">[Code]</span>](https://github.com/IVRL/FG-NIC) - [<span style="color:red">[Supp TBD]</span>](https://github.com/IVRL/FG-NIC/blob/main/supplementary_material.pdf)
 
