@@ -14,7 +14,7 @@ Supervision of project ideas that I propose to undergraduate (BS/MS) students, l
 
 2021
 =====
-Controllable confidence-based image restoration. (3 MS, ongoing)
+Controllable confidence-based image restoration. (3 MS)
 
 Degraded image classification using restoration data fidelity. (MS)
 
