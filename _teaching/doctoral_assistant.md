@@ -10,7 +10,7 @@ location: "Switzerland"
 
 Teaching assistant for undergraduate courses, listed per semester since 2017.
 
-[Computational Photography](http://edu.epfl.ch/coursebook/en/computational-photography-CS-413) Spring 2021
+[Computational Photography](http://edu.epfl.ch/coursebook/en/computational-photography-CS-413) Spring 2021 (also gave 2 lectures in the main course) 
 
 [Computational Photography](http://edu.epfl.ch/coursebook/en/computational-photography-CS-413) Spring 2020
 
