@@ -20,6 +20,7 @@ I am a postdoctoral research scientist at EPFL, with the Image and Visual Repres
 *PhD news*
 ---
 Papers, code, and presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
+* *Jun 2021*: Our video completion patent [demo](https://adefan.epfl.ch/static/index.html) is published online.
 * *May 2021*: Our denoising paper, exploiting network epistemic uncertainty and frequency manipulations to create a self ensemble, is accepted at IEEE ICIP.
 * *Mar 2021*: Our BIGPrior poster is accepted for presentation at IEEE ICCP.
 * *Jan 2021*: We hold the second edition of the [relighting challenges](https://competitions.codalab.org/competitions/28030) in the CVPR NTIRE workshop, using [VIDIT](https://github.com/majedelhelou/VIDIT) data with depth information.
