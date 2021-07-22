@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **M. El Helou**  and S. Süsstrunk, "BIGPrior: Towards Decoupling Learned Prior Hallucination and Data Fidelity in Image Restoration," *under submission*.  
-[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2011.01406) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/BIGPrior) - [<span style="color:red">[Poster (@ICCP21)]</span>](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/BIGPrior_ICCP21_Poster.pdf)
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2011.01406) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/BIGPrior) - [<span style="color:orange">[Poster (@ICCP21)]</span>](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/BIGPrior_ICCP21_Poster.pdf)
 
 - **M. El Helou**\*, R. Zhou\*  and S. Süsstrunk, "Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks," *in European Conference on Computer Vision (ECCV)*, 2020. (\*similar contribution)  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2003.07119) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/SFM) - [<span style="color:red">[Supp.]</span>](https://github.com/majedelhelou/SFM/blob/master/SFM_supp.pdf) - [<span style="color:red">[Video]</span>](https://www.youtube.com/watch?v=9ndox0p2gFg)
@@ -44,7 +44,7 @@ author_profile: true
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2106.00673) - [<span style="color:green">[Code]</span>](https://github.com/IVRL/FG-NIC) - [<span style="color:red">[Supp]</span>](https://github.com/IVRL/FG-NIC/blob/main/materials/supp.pdf)
 
 - X. Ma, X. Lin, **M. El Helou** and S. Süsstrunk, "Deep Gaussian Denoiser Epistemic Uncertainty and Decoupled Dual-Attention Fusion," *in IEEE International Conference on Image Processing (ICIP)*, 2021.  
-[<span style="color:blue">[Paper]</span>](http://arxiv.org/abs/2101.04631) - [<span style="color:green">[Code]</span>](https://github.com/IVRL/DEU) - [<span style="color:red">[Supp]</span>](https://github.com/IVRL/DEU/blob/main/supplementary_material.pdf)
+[<span style="color:blue">[Paper]</span>](http://arxiv.org/abs/2101.04631) - [<span style="color:green">[Code]</span>](https://github.com/IVRL/DEU) - [<span style="color:orange">[Poster]</span>](ICIP2021_poster.pdf) - [<span style="color:red">[Supp]</span>](https://github.com/IVRL/DEU/blob/main/supplementary_material.pdf)
 
 - **M. El Helou**, R. Zhou, F. Schmutz, F. Guibert and S. Süsstrunk, "Divergence-Based Adaptive Extreme Video Completion," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/277003/) - [<span style="color:green">[Code by email]</span>](https://github.com/majedelhelou/) - [<span style="color:orange">[Slides]</span>](ADEFAN_slides.pdf) - [<span style="color:red">[Dataset]</span>](https://ieee-dataport.org/documents/extreme-video-completion-dataset) - [<span style="color:red">[Video]</span>](ADEFAN_video.mp4)
