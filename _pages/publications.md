@@ -40,7 +40,7 @@ author_profile: true
 
 
 ## --- Ideas proposed and co-supervised ---
-- X. Lin, D. Bhattacharjee, **M. El Helou** and S. Süsstrunk, "Fidelity Estimation Improves Noisy-Image Classification with Pretrained Networks," *under submission*.  
+- X. Lin, D. Bhattacharjee, **M. El Helou** and S. Süsstrunk, "Fidelity Estimation Improves Noisy-Image Classification with Pretrained Networks," *in IEEE Signal Processing Letters*, 2021.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2106.00673) - [<span style="color:green">[Code]</span>](https://github.com/IVRL/FG-NIC) - [<span style="color:red">[Supp]</span>](https://github.com/IVRL/FG-NIC/blob/main/materials/supp.pdf)
 
 - X. Ma, X. Lin, **M. El Helou** and S. Süsstrunk, "Deep Gaussian Denoiser Epistemic Uncertainty and Decoupled Dual-Attention Fusion," *in IEEE International Conference on Image Processing (ICIP)*, 2021.  
