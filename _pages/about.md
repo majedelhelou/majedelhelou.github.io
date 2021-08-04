@@ -19,9 +19,9 @@ Papers, code, and posters/presentations can be found on my [publications](https:
 
 *PhD news*
 ---
-* *Aug 2021*: Our paper on how to make pre-trained classifiers robust against noisy data is accepted at IEEE Signal Processing Letters.
+* *Aug 2021*: Our paper on how to make pre-trained classifiers robust against noisy data is accepted in IEEE Signal Processing Letters.
 * *Jun 2021*: Our video completion patent [demo](https://adefan.epfl.ch/static/index.html) is published online.
-* *May 2021*: Our denoising paper, exploiting network epistemic uncertainty and frequency manipulations to create a self ensemble, is accepted at IEEE ICIP.
+* *May 2021*: Our denoising paper, exploiting network epistemic uncertainty and frequency manipulations to create a self ensemble, is accepted in IEEE ICIP.
 * *Mar 2021*: Our BIGPrior poster is accepted for presentation at IEEE ICCP.
 * *Jan 2021*: We hold the second edition of the [relighting challenges](https://competitions.codalab.org/competitions/28030) in the CVPR NTIRE workshop, using [VIDIT](https://github.com/majedelhelou/VIDIT) data with depth information.
 * *Jul 2020*: Our paper on the analysis of frequency-conditional learning in deep super-resolution and denoising networks, and a stochastic masking method to improve both tasks, is accepted in ECCV.
