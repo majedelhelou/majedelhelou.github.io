@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*:hourglass_flowing_sand: ~Last Update: June 2021~ :hourglass_flowing_sand:*
+*:hourglass_flowing_sand: ~Last Update: August 2021~ :hourglass_flowing_sand:*
 
 ---
 
@@ -19,6 +19,7 @@ Papers, code, and posters/presentations can be found on my [publications](https:
 
 *PhD news*
 ---
+* *Aug 2021*: Our paper on how to make pre-trained classifiers robust against noisy data is accepted at IEEE Signal Processing Letters.
 * *Jun 2021*: Our video completion patent [demo](https://adefan.epfl.ch/static/index.html) is published online.
 * *May 2021*: Our denoising paper, exploiting network epistemic uncertainty and frequency manipulations to create a self ensemble, is accepted at IEEE ICIP.
 * *Mar 2021*: Our BIGPrior poster is accepted for presentation at IEEE ICCP.
