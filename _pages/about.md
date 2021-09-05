@@ -12,14 +12,14 @@ redirect_from:
 
 ---
 
-I am a postdoctoral research scientist at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing, estimation theory, deep learning, computer vision, and optics).
+I am a postdoctoral researcher at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing, estimation theory, deep learning, computer vision, and optics).
 
 Papers, code, and posters/presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page, and some resources under [misc.](https://majedelhelou.github.io/misc/).
 
 
 *Research news*
 ---
-* *Aug 2021*: Our paper on making pretrained classifiers robust to noise-corrupted images is accepted in IEEE Signal Processing Letters.
+* *Aug 2021*: Our paper making pretrained classifiers robust to noise-corrupted images is accepted in IEEE Signal Processing Letters.
 * *Jun 2021*: Our video completion patent [demo](https://adefan.epfl.ch/static/index.html) is published online.
 * *May 2021*: Our denoising paper, exploiting network epistemic uncertainty and frequency manipulations to create a self ensemble, is accepted in IEEE ICIP.
 * *Mar 2021*: Our BIGPrior poster is accepted for presentation at IEEE ICCP.
