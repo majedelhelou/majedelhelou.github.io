@@ -1,7 +1,7 @@
 ---
 title: "Project Supervision"
 collection: teaching
-type: "Undergraduate project supervision"
+type: "Research and applied project supervision"
 permalink: /teaching/project_supervision
 venue: "EPFL"
 date: 01-01-2017
@@ -9,14 +9,20 @@ location: "Switzerland"
 ---
 
 
-Supervision of project ideas that I propose to undergraduate (BS/MS) students, listed per year since 2017.
+Supervision of project ideas designed by me (unless stated otherwise), which are carried out by undergraduate (BS/MS) students, listed per year since 2017, or by PhD students, since 2021.
 
 
 2021
 =====
-Controllable confidence-based image restoration. (3 MS)
+Universal adversarial robustness through deep pretrained denoisers. (PhD) *ongoing*
 
-Degraded image classification using restoration data fidelity. (MS)
+Adaptive discriminator for GAN-based deep image restoration. (PhD, co-designed) *ongoing*
+
+Pushing the limits of extreme video completion with machine learning. (Software Engineer) *ongoing*
+
+Controllable confidence-based image restoration with a focus on denoising. (3 MS)
+
+Robust degraded-image classification using image restoration data fidelity. (MS)
 
 
 2020
