@@ -1,5 +1,5 @@
 ---
-title: "Project Supervision"
+title: "-> Project Supervision <-"
 collection: teaching
 type: "Research and applied project supervision"
 permalink: /teaching/project_supervision
@@ -18,7 +18,7 @@ Universal adversarial robustness through deep pretrained denoisers. (PhD) *ongoi
 
 Adaptive discriminator for GAN-based deep image restoration. (PhD, co-designed) *ongoing*
 
-Pushing the limits of extreme video completion with machine learning. (Software Engineer) *ongoing*
+Pushing the limits of extreme video completion with machine learning. (MS Software Engineer) *ongoing*
 
 Controllable confidence-based image restoration with a focus on denoising. (3 MS)
 
