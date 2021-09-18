@@ -1,5 +1,5 @@
 ---
-title: "Doctoral Assistant"
+title: "-> Doctoral Assistant <-"
 collection: teaching
 type: "Courses"
 permalink: /teaching/doctoral_assistant
