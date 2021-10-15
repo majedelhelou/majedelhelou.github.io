@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **M. El Helou**  and S. Süsstrunk, "BIGPrior: Towards Decoupling Learned Prior Hallucination and Data Fidelity in Image Restoration," *under submission*.  
+- **M. El Helou**  and S. Süsstrunk, "BIGPrior: Towards Decoupling Learned Prior Hallucination and Data Fidelity in Image Restoration," *under submission to IEEE TIP*.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2011.01406) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/BIGPrior) - [<span style="color:red">[Poster (@ICCP21)]</span>](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/BIGPrior_ICCP21_Poster.pdf)
 
 - **M. El Helou**\*, R. Zhou\*  and S. Süsstrunk, "Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks," *in European Conference on Computer Vision (ECCV)*, 2020. (\*similar contribution)  
