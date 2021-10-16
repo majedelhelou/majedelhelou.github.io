@@ -8,7 +8,7 @@ date: 01-01-2021
 location: "Switzerland"
 ---
 
-Lectures given to undergraduate students, 2021.
+
 
 * Guest lecturer for [Animation Concepts II: Towards Digital](https://applicationspub.unil.ch/interpub/noauth/php/Ud/ficheCours.php?v_enstyid=81786&v_ueid=174&v_etapeid1=27655&v_langue=fr&v_isinterne=), UNIL, Fall 2021.
 
