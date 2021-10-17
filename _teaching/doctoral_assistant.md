@@ -1,10 +1,10 @@
 ---
 title: "-> Doctoral Assistant <-"
 collection: teaching
-type: "(Courses"
+type: "Courses"
 permalink: /teaching/doctoral_assistant
 venue: "EPFL"
-date: 01-01-2017)
+date: 01-01-2017
 location: "Switzerland"
 ---
 
