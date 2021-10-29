@@ -18,7 +18,7 @@ Universal adversarial robustness through deep pretrained denoisers. (PhD) *ongoi
 
 Adaptive discriminator for GAN-based deep image restoration. (PhD, co-designed) *ongoing*
 
-Detection of fake media with video and audio manipulations. (PhD, based on [this challenge](https://trustedmedia.aisingapore.org/)) *ongoing*
+Detection of fake media with video and audio manipulations. (PhD, co-supervised, based on [this challenge](https://trustedmedia.aisingapore.org/)) *ongoing*
 
 Controllable confidence-based image restoration with a focus on denoising. (3 MS)
 
