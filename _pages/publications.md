@@ -40,7 +40,7 @@ author_profile: true
 
 
 ## --- Ideas proposed and co-supervised ---
-- Q. Liang, F. Cassayre, H. Owsianko, **M. El Helou** and S. Süsstrunk, "Hallucinate Only at Home: Image Denoising with a Grip over Deep Network Hallucination," *under submission*.
+- Q. Liang, F. Cassayre, H. Owsianko, **M. El Helou** and S. Süsstrunk, "Image Denoising with Control over Deep Network Hallucination," *under submission*.
 
 - X. Lin, D. Bhattacharjee, **M. El Helou** and S. Süsstrunk, "Fidelity Estimation Improves Noisy-Image Classification with Pretrained Networks," *in IEEE Signal Processing Letters*, 2021.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2106.00673) - [<span style="color:green">[Code]</span>](https://github.com/IVRL/FG-NIC) - [<span style="color:red">[Supp]</span>](https://github.com/IVRL/FG-NIC/blob/main/materials/supp.pdf)
