@@ -16,9 +16,9 @@ Supervision of project ideas designed by me (unless stated otherwise), which are
 =====
 Universal adversarial robustness through deep pretrained denoisers. (PhD) *ongoing*
 
-Adaptive discriminator for GAN-based deep image restoration. (PhD, co-designed) *ongoing*
+Adaptive deep-learning-based image super-resolution. (PhD, co-designed) *ongoing*
 
-Detection of fake media with video and audio manipulations. (PhD, co-supervised, based on [this challenge](https://trustedmedia.aisingapore.org/)) *ongoing*
+Detection of fake media with video and audio manipulations. (PhD, co-supervised, based on [this challenge](https://trustedmedia.aisingapore.org/))
 
 Controllable confidence-based image restoration with a focus on denoising. (3 MS)
 
