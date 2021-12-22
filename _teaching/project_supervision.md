@@ -11,12 +11,14 @@ location: "Switzerland"
 
 Supervision of project ideas designed by me (unless stated otherwise), which are carried out by undergraduate (BS/MS) students, listed per year since 2017, or by PhD students, since 2021.
 
+2022
+=====
+Adaptive deep image denoising and super-resolution. (PhD, co-designed) *ongoing*
+
 
 2021
 =====
-Universal adversarial robustness through deep pretrained denoisers. (PhD) *ongoing*
-
-Adaptive deep-learning-based image super-resolution. (PhD, co-designed) *ongoing*
+Adversarial robustness with Langevin dynamics on deep denoisers. (PhD)
 
 Detection of fake media with video and audio manipulations. (PhD, co-supervised, based on [this challenge](https://trustedmedia.aisingapore.org/))
 
