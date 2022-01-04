@@ -13,6 +13,8 @@ Supervision of project ideas designed by me (**unless stated otherwise**), which
 
 2022
 =====
+Towards robust drone vision in the wild. (MS Thesis)
+
 Adaptive deep image denoising and super-resolution. (PhD, co-designed) *ongoing*
 
 
