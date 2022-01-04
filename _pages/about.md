@@ -19,7 +19,7 @@ Papers, code, and posters/presentations can be found on my [publications](https:
 
 *Research news*
 ---
-* *Jan 2022*: Our controllable confidence-based paper is accepted in IS\&T Electronic Imaging.
+* *Jan 2022*: Our controllable confidence-based image denoising paper is accepted in IS\&T Electronic Imaging.
 * *Aug 2021*: Our paper making pretrained classifiers robust to noise-corrupted images is accepted in IEEE Signal Processing Letters.
 * *Jun 2021*: Our video completion patent [demo](https://adefan.epfl.ch/static/index.html) is published online.
 * *May 2021*: Our denoising paper, exploiting network epistemic uncertainty and frequency manipulations to create a self ensemble, is accepted in IEEE ICIP.
