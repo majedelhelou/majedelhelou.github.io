@@ -9,7 +9,7 @@ location: "Switzerland"
 ---
 
 
-Supervision of project ideas designed by me (unless stated otherwise), which are carried out by undergraduate (BS/MS) students, listed per year since 2017, or by PhD students, since 2021.
+Supervision of project ideas designed by me (**unless stated otherwise**), which are carried out by undergraduate (BS/MS) students since 2017, or by PhD students since 2021.
 
 2022
 =====
