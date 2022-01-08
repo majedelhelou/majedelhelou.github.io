@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*:hourglass_flowing_sand: ~Last Update: Dec 2021~ :hourglass_flowing_sand:*
+*:hourglass_flowing_sand: ~Last Update: Jan 2022~ :hourglass_flowing_sand:*
 
 ---
 
@@ -19,7 +19,8 @@ Papers, code, and posters/presentations can be found on my [publications](https:
 
 *Research news*
 ---
-* *Jan 2022*: Our controllable confidence-based image denoising paper is accepted in IS&T Electronic Imaging.
+* *Jan 2022*: Our BIGPrior image restoration paper is accepted in IEEE TIP.
+* *Dec 2021*: Our controllable confidence-based image denoising paper is accepted in IS&T Electronic Imaging.
 * *Aug 2021*: Our paper making pretrained classifiers robust to noise-corrupted images is accepted in IEEE Signal Processing Letters.
 * *Jun 2021*: Our video completion patent [demo](https://adefan.epfl.ch/static/index.html) is published online.
 * *May 2021*: Our denoising paper, exploiting network epistemic uncertainty and frequency manipulations to create a self ensemble, is accepted in IEEE ICIP.
@@ -28,7 +29,7 @@ Papers, code, and posters/presentations can be found on my [publications](https:
 * *Jul 2020*: Our paper on the analysis of frequency-conditional learning in deep super-resolution and denoising networks, and a stochastic masking method to improve both tasks, is accepted in ECCV.
 * *Jul 2020*: Our paper on joint denoising and super-resolution in microscopy imaging is accepted in BioImage Computing, ECCVW.
 * *May 2020*: [VIDIT](https://github.com/majedelhelou/VIDIT) is released, and is used in the ECCV AIM workshop for the [relighting competitions](https://competitions.codalab.org/competitions/24671) that we are co-organizing.
-* *Mar 2020*: Our paper on image denoising, later presented in the CVPR CDD workshop, is accepted in IEEE TIP.
+* *Mar 2020*: Our BUIFD paper on image denoising, later presented in the CVPR CDD workshop, is accepted in IEEE TIP.
 * *Jan 2020*: Our 3 papers on extreme video completion, network regularization and point embeddings are accepted in IEEE ICASSP.
 * *Jun 2019*: Our paper on spectral defocus disambiguation is accepted in OSA Math, with its extension in OSA Continuum.
 * *May 2019*: Our paper on automated robotic painting is accepted in IEEE ICRA.
