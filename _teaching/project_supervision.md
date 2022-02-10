@@ -13,7 +13,9 @@ Supervision of project ideas designed by me (**unless stated otherwise**), which
 
 2022
 =====
-Towards robust drone vision in the wild. (MS Thesis) *ongoing*
+Towards robust drone vision in the wild with domain adaptation. (MS Thesis) *ongoing*
+
+Alignment and benchmarking for drone vision data and segmentation. (MS, co-designed) *ongoing*
 
 Adaptive deep image denoising and super-resolution. (PhD, co-designed) *ongoing*
 
