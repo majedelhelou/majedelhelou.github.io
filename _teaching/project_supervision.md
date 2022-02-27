@@ -13,7 +13,9 @@ Supervision of project ideas designed by me (**unless stated otherwise**), which
 
 2022
 =====
-Towards robust drone vision in the wild with domain adaptation. (MS Thesis) *ongoing*
+Maximum likelihood modeling of Poisson-Gaussian noise statistics. (3 MS) *ongoing*
+
+Towards robust drone vision in the wild with resolution domain adaptation. (MS Thesis) *ongoing*
 
 Alignment and benchmarking for drone vision data and segmentation. (MS, co-designed) *ongoing*
 
@@ -41,9 +43,9 @@ Depth-of-field extension of microscopy cornea scans with machine learning. (3 MS
 
 Video denoising on FPGA. (2 MS, student-proposed project)
 
-Single-image light source repositioning with deep learning. (5 MS)
+Single-image relighting with deep learning. (5 MS)
 
-Deep learning on biomedical image restoration. (MS)
+Deep learning for widefield to SIM image restoration. (MS)
 
 
 2019
