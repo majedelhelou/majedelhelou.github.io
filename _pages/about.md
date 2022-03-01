@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-*:hourglass_flowing_sand: ~Last Update: Jan 2022~ :hourglass_flowing_sand:*
+*:hourglass_flowing_sand: ~Last Update: Feb 2022~ :hourglass_flowing_sand:*
 
 ---
 
-I am a postdoctoral researcher at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing, estimation theory, deep learning, computer vision, and optics).
+I am a postdoctoral researcher at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing and computational photography, estimation theory, deep learning, optics, and computer vision).
 
 Papers, code, and posters/presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page, and other resources like datasets under [misc](https://majedelhelou.github.io/misc/).
 
