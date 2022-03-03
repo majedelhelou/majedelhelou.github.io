@@ -69,10 +69,10 @@ author_profile: true
 - R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: Microscopy Data with Joint Denoising and Super-Resolution for Widefield to SIM Mapping," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020. (\*similar contribution)  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green">[Code]</span>](https://github.com/ivrl/w2s) - [<span style="color:red">[Supp.]</span>](https://github.com/IVRL/w2s/blob/master/w2s_supp.pdf) - [<span style="color:red">[Video]</span>](https://www.youtube.com/watch?v=mStALVFBcSA)
 
-- S. Gu, et al., "AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results," *in IEEE International Conference on Computer Vision Workshops (ICCVW)*, 2019. (co-authored as competition participant) 
+- S. Gu, et al., "AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results," *in IEEE International Conference on Computer Vision Workshops (ICCVW)*, 2019. (co-authored as competition participant)  
 [<span style="color:blue"> [Paper]</span>](https://www.research-collection.ethz.ch/handle/20.500.11850/391538)
 
-- B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018. (co-authored as competition participant) 
+- B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018. (co-authored as competition participant)  
 [<span style="color:blue"> [Paper]</span>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
 
 
