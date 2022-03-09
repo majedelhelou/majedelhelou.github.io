@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-I am a postdoctoral researcher at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing and computational photography, estimation theory, deep learning, optics, and computer vision).
+I am a postdoctoral research scientist at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research is in computational imaging and applied machine learning (overlapping with signal/image processing and computational photography, estimation theory, deep learning, optics, and computer vision).
 
 Papers, code, and posters/presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page, and other resources like datasets under [misc](https://majedelhelou.github.io/misc/).
 
