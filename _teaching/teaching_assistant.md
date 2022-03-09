@@ -1,8 +1,8 @@
 ---
-title: "-> Doctoral Assistant <-"
+title: "-> Teaching Assistant <-"
 collection: teaching
 type: "Courses"
-permalink: /teaching/doctoral_assistant
+permalink: /teaching/teaching_assistant
 venue: "EPFL"
 date: 01-01-2017
 location: "Switzerland"
