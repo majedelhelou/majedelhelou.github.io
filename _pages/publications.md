@@ -7,7 +7,7 @@ author_profile: true
 
 * [Supervision publications](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/publications.md#----ideas-proposed-and-co-supervised----) ⬇
 * [Workshop publications](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/publications.md#----workshops----) ⬇️
-* [Tutorial methods](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/publications.md#----technical-tutorialstools----) ⬇
+* [Tutorial methods](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/publications.md#----technical-tutorialstools----) ⬇️
 * [Bachelor publications](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/publications.md#bachelor-studies) ⬇
 
 - **M. El Helou**  and S. Süsstrunk, "BIGPrior: Towards Decoupling Learned Prior Hallucination and Data Fidelity in Image Restoration," *in IEEE Transactions on Image Processing (TIP), vol. 31, pp. 1628-1640*, 2022.  
