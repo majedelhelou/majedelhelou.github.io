@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Supervision publications](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/publications.md#----ideas-proposed-and-co-supervised----) ⬇
-[Workshop publications](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/publications.md#----workshops----) ⬇️
-[Tutorial methods](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/publications.md#----technical-tutorialstools----) ⬇️
-[Bachelor publications](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/publications.md#bachelor-studies) ⬇
+[Supervision publications](https://majedelhelou.github.io/publications/) ⬇️
+[Workshop publications](https://majedelhelou.github.io/publications/) ⬇️
+[Tutorial methods](https://majedelhelou.github.io/publications/) ⬇️
+[Bachelor publications](https://majedelhelou.github.io/publications/) ⬇️
+
+You can also find my articles on [my Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ)
 
 - **M. El Helou**  and S. Süsstrunk, "BIGPrior: Towards Decoupling Learned Prior Hallucination and Data Fidelity in Image Restoration," *in IEEE Transactions on Image Processing (TIP), vol. 31, pp. 1628-1640*, 2022.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/291164?&ln=en) - [<span style="color:green">[Code]</span>](https://github.com/majedelhelou/BIGPrior) - [<span style="color:red">[Supp.]</span>](https://github.com/majedelhelou/BIGPrior/blob/main/BIGPrior_supplementary_material.pdf) - [<span style="color:orange">[Poster (at ICCP21)]</span>](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/BIGPrior_ICCP21_Poster.pdf)
@@ -97,9 +99,6 @@ author_profile: true
 
 - **M. El Helou**, R. Chanouha and L. Debs, "Statistical Voxel-Based Morphometric Image Processing for Automated Diagnosis of Epileptic Lesions from MRI," *in 15<sup>th</sup> FEASAC*, 2016.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if author.googlescholar %}  
 {% endif %}
-
 {% include base_path %}
-
