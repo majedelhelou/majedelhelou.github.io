@@ -11,11 +11,11 @@ Reference list for the special tags below  ⬇️
 
 :star: -> Worshop publications
 
-:notebook: -> Technical tutorials/tools
+:green_book: -> Technical tutorials/tools
 
 You can also find my articles on my Google Scholar ==[profile](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ)==.
 
-- :notebook: *Coming soon:* "Maximum Likelihood Poisson-Gaussian Noise Distribution Modeling".
+- :green_book: *Coming soon:* "Maximum Likelihood Poisson-Gaussian Noise Distribution Modeling".
 
 - **M. El Helou**  and S. Süsstrunk, "BIGPrior: Towards Decoupling Learned Prior Hallucination and Data Fidelity in Image Restoration," *in IEEE Transactions on Image Processing (TIP), vol. 31, pp. 1628-1640*, 2022.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/291164?&ln=en) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/majedelhelou/BIGPrior) - [<span style="color:red">[Supp.]</span>](https://github.com/majedelhelou/BIGPrior/blob/main/BIGPrior_supplementary_material.pdf) - [<span style="color:orange">[Poster (at ICCP21)]</span>](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/BIGPrior_ICCP21_Poster.pdf)
@@ -80,7 +80,7 @@ You can also find my articles on my Google Scholar ==[profile](https://scholar.g
 - :star: B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018. (co-authored as competition participant)  
 [<span style="color:blue"> [Paper]</span>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
 
-- :notebook: **M. El Helou**, F. Dümbgen, R. Achanta and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
+- :green_book: **M. El Helou**, F. Dümbgen, R. Achanta and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
 [<span style="color:blue"> [Paper]</span>](https://arxiv.org/abs/1809.04187) - [<span style="color:green"> [Code / Project Page] </span>](https://github.com/duembgen/fourier-deconv)
 
 - **M. El Helou**, Z. Sadeghipoor and S. Süsstrunk, "Correlation-Based Deblurring Leveraging Multispectral Chromatic Aberration in Color and Near-Infrared Joint Acquisition," *in IEEE International Conference on Image Processing (ICIP)*, 2017.  
