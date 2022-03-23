@@ -20,11 +20,11 @@ author_profile: true
 - **M. El Helou**  and S. Süsstrunk, "BIGPrior: Towards Decoupling Learned Prior Hallucination and Data Fidelity in Image Restoration," *in IEEE Transactions on Image Processing (TIP), vol. 31, pp. 1628-1640*, 2022.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/291164?&ln=en) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/majedelhelou/BIGPrior) - [<span style="color:red">[Supp.]</span>](https://github.com/majedelhelou/BIGPrior/blob/main/BIGPrior_supplementary_material.pdf) - [<span style="color:orange">[Poster (at ICCP21)]</span>](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/BIGPrior_ICCP21_Poster.pdf)
 
-- :star: **M. El Helou**, R. Zhou, S. Süsstrunk, R. Timofte, et al., "NTIRE 2021: Depth-Guided Image Relighting Challenge," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2021.  
-[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2104.13365) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/majedelhelou/VIDIT) - [<span style="color:red">[Video]</span>](https://youtu.be/TSpct2FGCBw)
-
 - :boom: Q. Liang, F. Cassayre, H. Owsianko, **M. El Helou** and S. Süsstrunk, "Image Denoising with Control over Deep Network Hallucination,"  *in IS&T/SPIE Electronic Imaging*, 2022.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/291129?&ln=en) - [<span style="color:green"> [Code / Project Page] </span>](https://github.com/IVRL/CCID)  - [<span style="color:orange"> [Slides]</span>](CCID2022.pdf)
+
+- :star: **M. El Helou**, R. Zhou, S. Süsstrunk, R. Timofte, et al., "NTIRE 2021: Depth-Guided Image Relighting Challenge," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2021.  
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2104.13365) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/majedelhelou/VIDIT) - [<span style="color:red">[Video]</span>](https://youtu.be/TSpct2FGCBw)
 
 - :boom: X. Lin, D. Bhattacharjee, **M. El Helou** and S. Süsstrunk, "Fidelity Estimation Improves Noisy-Image Classification with Pretrained Networks," *in IEEE Signal Processing Letters*, 2021.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2106.00673) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/IVRL/FG-NIC) - [<span style="color:red">[Supp]</span>](https://github.com/IVRL/FG-NIC/blob/main/materials/supp.pdf)
