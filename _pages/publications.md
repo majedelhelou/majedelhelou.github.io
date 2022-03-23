@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 [Supervision publications](https://majedelhelou.github.io/publications/) ⬇️
+
 [Workshop publications](https://majedelhelou.github.io/publications/) ⬇️
 [Tutorial methods](https://majedelhelou.github.io/publications/) ⬇️
 [Bachelor publications](https://majedelhelou.github.io/publications/) ⬇️
