@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-`--- Reference list for the special publication tags below  ⬇️ ---
+`--- Reference list for the special publication tags below  ⬇️ ---`
 
 &nbsp;&nbsp;&nbsp;&nbsp; :boom:: Ideas proposed and co-supervised
 
