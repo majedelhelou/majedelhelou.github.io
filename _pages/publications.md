@@ -7,7 +7,7 @@ author_profile: true
 
 --- Reference list for the special publication tags below  ⬇️ ---
 
-&nbsp;&nbsp;&nbsp;&nbsp; :boom: -> Ideas proposed and co-supervised
+&nbsp;&nbsp;&nbsp;&nbsp; :boom: -> ==Ideas proposed and co-supervised==
 
 &nbsp;&nbsp;&nbsp;&nbsp; :star2: -> Worshop publications
 
