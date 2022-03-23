@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 --- Reference list for the special publication tags below  ⬇️ ---
-
-   :boom: -> Ideas proposed and co-supervised
-
-   :star2: -> Worshop publications
-
-   :green_book: -> Technical tutorials/tools
-
+|
+|     :boom: -> Ideas proposed and co-supervised
+|
+|     :star2: -> Worshop publications
+|
+|     :green_book: -> Technical tutorials/tools
+|
 --- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---
 
 - :green_book: *Coming soon:* "Maximum Likelihood Poisson-Gaussian Noise Distribution Modeling".
