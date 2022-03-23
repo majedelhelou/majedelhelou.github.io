@@ -11,7 +11,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp; :star2: -> Worshop publications
 
-&nbsp;&nbsp;&nbsp;&nbsp; :green_book: -> Technical tutorials/tools
+&nbsp;&nbsp;&nbsp;&nbsp; :green_book: -> Technical tutorials and tools
 
 --- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---
 
