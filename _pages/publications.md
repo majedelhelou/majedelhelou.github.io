@@ -9,7 +9,7 @@ author_profile: true
 
 :boom: -> Ideas proposed and co-supervised
 
-:star: -> Worshop publications
+:star2: -> Worshop publications
 
 :green_book: -> Technical tutorials/tools
 
@@ -23,7 +23,7 @@ author_profile: true
 - :boom: Q. Liang, F. Cassayre, H. Owsianko, **M. El Helou** and S. Süsstrunk, "Image Denoising with Control over Deep Network Hallucination,"  *in IS&T/SPIE Electronic Imaging*, 2022.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/291129?&ln=en) - [<span style="color:green"> [Code / Project Page] </span>](https://github.com/IVRL/CCID)  - [<span style="color:orange"> [Slides]</span>](CCID2022.pdf)
 
-- :star: **M. El Helou**, R. Zhou, S. Süsstrunk, R. Timofte, et al., "NTIRE 2021: Depth-Guided Image Relighting Challenge," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2021.  
+- :star2: **M. El Helou**, R. Zhou, S. Süsstrunk, R. Timofte, et al., "NTIRE 2021: Depth-Guided Image Relighting Challenge," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2021.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2104.13365) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/majedelhelou/VIDIT) - [<span style="color:red">[Video]</span>](https://youtu.be/TSpct2FGCBw)
 
 - :boom: X. Lin, D. Bhattacharjee, **M. El Helou** and S. Süsstrunk, "Fidelity Estimation Improves Noisy-Image Classification with Pretrained Networks," *in IEEE Signal Processing Letters*, 2021.  
@@ -38,10 +38,10 @@ author_profile: true
 - **M. El Helou** and S. Süsstrunk, "Blind Universal Bayesian Image Denoising with Gaussian Noise Level Learning," *in IEEE Transactions on Image Processing (TIP), vol. 29, pp. 4885-4897*, 2020.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/1907.03029) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/majedelhelou/BUIFD)
 
-- :star: **M. El Helou**, R. Zhou, S. Süsstrunk, R. Timofte, et al., "AIM 2020: Scene Relighting and Illumination Estimation Challenge," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020.  
+- :star2: **M. El Helou**, R. Zhou, S. Süsstrunk, R. Timofte, et al., "AIM 2020: Scene Relighting and Illumination Estimation Challenge," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2009.12798) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/majedelhelou/VIDIT) - [<span style="color:red">[Supp.]</span>](https://github.com/majedelhelou/VIDIT/blob/master/AIM_2020_Relighting_Supp.pdf) - [<span style="color:red">[Video]</span>](https://www.youtube.com/watch?v=Zn7R0fbXJZw)
 
-- :star: R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: Microscopy Data with Joint Denoising and Super-Resolution for Widefield to SIM Mapping," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020. (\*similar contribution)  
+- :star2: R. Zhou\*, **M. El Helou**\*, D. Sage, T. Laroche, A. Seitz and S. Süsstrunk, "W2S: Microscopy Data with Joint Denoising and Super-Resolution for Widefield to SIM Mapping," *in European Conference on Computer Vision Workshops (ECCVW)*, 2020. (\*similar contribution)  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2003.05961) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/ivrl/w2s) - [<span style="color:red">[Supp.]</span>](https://github.com/IVRL/w2s/blob/master/w2s_supp.pdf) - [<span style="color:red">[Video]</span>](https://www.youtube.com/watch?v=mStALVFBcSA)
 
 - **M. El Helou**, F. Dümbgen and S. Süsstrunk, "AL2: Progressive Activation Loss for Learning General Representations in Classification Neural Networks," *in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.  
@@ -65,7 +65,7 @@ author_profile: true
 - **M. El Helou**, M. Shahpaski and S. Süsstrunk, "Closed-Form Solution to Disambiguate Defocus Blur in Single-Perspective Images," *in Mathematics in Imaging, Imaging and Applied Optics Congress (OSA Math)*, 2019.  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/264918) - [<span style="color:green"> [Code / Project Page]</span>](blur_disambiguation.md) - [<span style="color:orange"> [Slides]</span>](OSA_presentation.pdf)
 
-- :star: S. Gu, et al., "AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results," *in IEEE International Conference on Computer Vision Workshops (ICCVW)*, 2019. (co-authored as competition participant)  
+- :star2: S. Gu, et al., "AIM 2019 Challenge on Image Extreme Super-Resolution: Methods and Results," *in IEEE International Conference on Computer Vision Workshops (ICCVW)*, 2019. (co-authored as competition participant)  
 [<span style="color:blue"> [Paper]</span>](https://www.research-collection.ethz.ch/handle/20.500.11850/391538)
 
 - :boom: X. Zou, R. Zhou, **M. El Helou** and S. Süsstrunk, "Drone Shadow Tracking," *arXiv preprint arXiv:1905.08214*, 2019.  
@@ -77,7 +77,7 @@ author_profile: true
 - F. Dümbgen\*, **M. El Helou**\*, N. Gucevska and S. Süsstrunk, "Near-Infrared Fusion for Photorealistic Image Dehazing," *in IS&T/SPIE Electronic Imaging*, 2018. (\*equal contribution)  
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/253201) - [<span style="color:green"> [Code / Project Page] </span>](https://github.com/duembgen/NIRdehazing)
 
-- :star: B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018. (co-authored as competition participant)  
+- :star2: B. Arad, et al., "NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2018. (co-authored as competition participant)  
 [<span style="color:blue"> [Paper]</span>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Arad_NTIRE_2018_Challenge_CVPR_2018_paper.html)
 
 - :green_book: **M. El Helou**, F. Dümbgen, R. Achanta and S. Süsstrunk, "Fourier-Domain Optimization for Image Processing," *arXiv preprint arXiv:1809.04187*, 2018.  
