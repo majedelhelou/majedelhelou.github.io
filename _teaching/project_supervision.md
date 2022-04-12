@@ -13,7 +13,7 @@ Supervision of project ideas designed by me (**unless stated otherwise**), which
 
 2022
 =====
-Maximum likelihood modeling of Poisson-Gaussian noise statistics. (3 MS) *ongoing*
+Maximum likelihood modeling of Poisson-Gaussian image noise. (3 MS) *ongoing*
 
 Towards robust drone vision in the wild with resolution domain adaptation. (MS Thesis) *ongoing*
 
