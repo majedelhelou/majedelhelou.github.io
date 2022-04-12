@@ -23,7 +23,7 @@ Past and current supervised projects are listed [here](https://majedelhelou.gith
 * *Jan 2022*: Our BIGPrior image restoration paper is accepted in IEEE TIP.
 * *Dec 2021*: Our controllable confidence-based image denoising paper is accepted in IS&T Electronic Imaging.
 * *Aug 2021*: Our paper making pretrained classifiers robust to noise-corrupted images is accepted in IEEE Signal Processing Letters.
-* *Jun 2021*: Our video completion patent [demo](https://adefan.epfl.ch/static/index.html) is published online.
+* *Jun 2021*: Our video completion [patent demo](https://adefan.epfl.ch/static/index.html) is published online.
 * *May 2021*: Our denoising paper, exploiting network epistemic uncertainty and frequency manipulations to create a self ensemble, is accepted in IEEE ICIP.
 * *Mar 2021*: Our BIGPrior poster is accepted for presentation at IEEE ICCP.
 * *Jan 2021*: We hold the second edition of the [relighting challenges](https://competitions.codalab.org/competitions/28030) in the CVPR NTIRE workshop, using [VIDIT](https://github.com/majedelhelou/VIDIT) data with depth information.
