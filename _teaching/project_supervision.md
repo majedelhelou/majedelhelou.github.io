@@ -13,20 +13,20 @@ Supervision of project ideas designed by me (**unless stated otherwise**), which
 
 2022
 =====
-Maximum likelihood modeling of Poisson-Gaussian image noise. (3 MS) *ongoing*
-
-Towards robust drone vision in the wild with resolution domain adaptation. (MS Thesis) *ongoing*
-
-Alignment and benchmarking for drone vision data and segmentation. (MS, co-designed) *ongoing*
-
 Adaptive deep image denoising and super-resolution. (PhD, co-designed) *ongoing*
+
+Estimation and likelihood of Poisson-Gaussian image noise parameters. (3 MS) *ongoing*
+
+Towards drone image super-resolution; dataset and single-image method. (MS Thesis)
+
+Drone vision data acquisition, alignment, and segmentation benchmarking. (MS, co-designed, advised)
 
 
 2021
 =====
 Adversarial robustness with Langevin dynamics on deep denoisers. (PhD)
 
-Detection of fake media with video and audio manipulations. (PhD, co-supervised, based on [this challenge](https://trustedmedia.aisingapore.org/))
+Detection of fake media with video and audio manipulations. (PhD, advised, based on [this challenge](https://trustedmedia.aisingapore.org/))
 
 Controllable confidence-based image restoration with a focus on denoising. (3 MS)
 
