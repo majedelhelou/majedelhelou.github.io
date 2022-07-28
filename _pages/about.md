@@ -17,7 +17,7 @@ redirect_from:
 Currently a postdoc at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/), my research is in computational imaging and applied machine learning (overlapping with image processing and computational photography, estimation theory, deep learning, optics, and computer vision).
 
 Papers, code, and posters/presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
-Other resources (Patent demo, tutorial, datasets) are under [misc](https://majedelhelou.github.io/misc/). 
+Other resources (patent demo, tutorial, datasets) are under [misc](https://majedelhelou.github.io/misc/). 
 Past and current supervised projects are listed [here](https://majedelhelou.github.io/teaching/project_supervision).
 
 
