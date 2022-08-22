@@ -9,8 +9,9 @@ author_profile: true
 ## Tutorial
 [Fourier-domain image optimization](https://github.com/duembgen/fourier-deconv)
 
-## Patent demo
-[ADEFAN extreme video completion](https://adefan.epfl.ch/static/index.html)
+## Patent
+- [Demo: ADEFAN extreme video completion](https://adefan.epfl.ch/static/index.html)
+- [Link to patent](https://worldwide.espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=en_EP&FT=D&date=20211014&CC=WO&NR=2021205202A1&KC=A1#)
 
 ## Datasets
 - [W2S microscopy denoising/SR dataset](https://github.com/IVRL/w2s)
