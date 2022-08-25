@@ -11,7 +11,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; :green_book:: Technical tutorials and tools\
 --- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---
 
-- :green_book: *Coming soon:* "Poisson-Gaussian Noise Modeling and Likelihood Estimation from Image Pairs".
+- :green_book: *TBD:* Poisson-Gaussian Noise Modeling and Likelihood Estimation from Image Pairs.
 
 - :star2: :boom: X. Lin, B. Ozaydin, V. Vidit, **M. El Helou** and S. Süsstrunk, "DSR: Towards Drone Image Super-Resolution," *in European Conference on Computer Vision Workshops (ECCVW)*, 2022.  
 [<span style="color:blue">[Paper TBD]</span>](https://arxiv.org/abs/) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/IVRL/DSR) - [<span style="color:red">[Supp.]</span>](https://github.com/IVRL/DSR/supplementary.pdf) - [<span style="color:red">[Dataset TBD]</span>]()
