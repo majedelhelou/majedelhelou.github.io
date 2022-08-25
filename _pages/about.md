@@ -24,5 +24,5 @@ Past and current supervised projects are listed [here](https://majedelhelou.gith
 *Contact details*
 ---
 *Feel free to ping for questions on publications/code.*
-You can find my contact information on [Github](https://github.com/majedelhelou).
+You can find my contact information on my [EPFL page](https://www.epfl.ch/labs/ivrl/people/majed/).
 
