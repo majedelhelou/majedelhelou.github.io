@@ -1,5 +1,5 @@
 ---
-title: "-> Project Supervision <-"
+title: "-> Project Supervision EPFL <-"
 collection: teaching
 type: "Research and applied project supervision"
 permalink: /teaching/project_supervision
@@ -13,9 +13,9 @@ Supervision of project ideas designed by me (**unless stated otherwise**), which
 
 2022
 =====
-Adaptive deep image denoising and super-resolution. (PhD, co-designed) *ongoing*
+Adaptive deep image denoising and super-resolution. (PhD, co-designed)
 
-Estimation and likelihood of Poisson-Gaussian image noise parameters. (3 MS) *ongoing*
+Estimation and likelihood of Poisson-Gaussian image noise parameters. (3 MS)
 
 Towards drone image super-resolution; dataset and single-image method. (MS Thesis)
 
