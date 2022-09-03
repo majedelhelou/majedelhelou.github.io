@@ -13,6 +13,7 @@ redirect_from:
 -->
 
 ---
+Currently an established researcher (postdoc) at ETHZ's [Media Technology Center](https://mtc.ethz.ch/). I work on and supervise industry-based computer vision projects, with current main focus on generative face manipulation. 
 
 Previously a Phd/postdoc at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research was in computational imaging and applied machine learning (overlapping with image processing and computational photography, deep learning, computer vision, estimation theory, and optics).
 
@@ -23,6 +24,4 @@ Past and current supervised projects are listed [here](https://majedelhelou.gith
 
 *Contact details*
 ---
-*Feel free to ping for questions on publications/code.*
-You can find my contact information on my [EPFL page](https://www.epfl.ch/labs/ivrl/people/majed/).
-
+*Feel free to ping for questions on publications/code. "melhelou" username at the "@ethz.ch" domain.*
