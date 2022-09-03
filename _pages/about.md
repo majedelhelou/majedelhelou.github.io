@@ -17,9 +17,11 @@ Currently an established researcher (postdoc) at ETHZ's [Media Technology Center
 
 Previously a Phd/postdoc at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research was in computational imaging and applied machine learning (overlapping with image processing and computational photography, deep learning, computer vision, estimation theory, and optics).
 
-Papers, code, and posters/presentations can be found on my [publications](https://majedelhelou.github.io/publications/) page.
-Other resources (patent, tutorial, data) are under [misc](https://majedelhelou.github.io/misc/). 
-Past and current supervised projects are listed [here](https://majedelhelou.github.io/teaching/project_supervision).
+Papers, code, and posters --> [publications](https://majedelhelou.github.io/publications/)
+
+Patent, tutorial, datasets --> [misc](https://majedelhelou.github.io/misc/)
+
+Past supervised projects --> [here](https://majedelhelou.github.io/teaching/project_supervision)
 
 
 *Contact details*
