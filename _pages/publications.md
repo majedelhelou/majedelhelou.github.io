@@ -9,7 +9,8 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; :boom:: Ideas proposed and co-supervised\
 &nbsp;&nbsp;&nbsp;&nbsp; :star2:: Workshop publications\
 &nbsp;&nbsp;&nbsp;&nbsp; :green_book:: Technical tutorials and tools\
---- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---
+--- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---\
+(patent info right [here](https://majedelhelou.github.io/misc/))
 
 - :green_book: *TBD:* Poisson-Gaussian Noise Modeling and Likelihood Estimation from Paired Samples.
 
