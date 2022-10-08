@@ -2,7 +2,7 @@
 title: "-> Project Supervision ETH Zurich <-"
 collection: teaching
 type: "Research and applied project supervision"
-permalink: /teaching/project_supervision
+permalink: /teaching/project_supervision2
 venue: "ETH Zurich"
 date: 01-09-2022
 location: "Switzerland"
