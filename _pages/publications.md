@@ -13,7 +13,7 @@ author_profile: true
 (patent info right [here](https://majedelhelou.github.io/misc/))
 
 - :green_book: N. Bähler\*, **M. El Helou**\*, E. Objois, K. Okumuş and S. Süsstrunk, "PoGaIN: Poisson-Gaussian Image Noise Modeling from Paired Samples," *under submission*. (\*equal contribution)  
-[<span style="color:blue">[Paper TBD]</span>](https://arxiv.org/abs/2210.04866) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/IVRL/PoGaIN) - [<span style="color:red">[Supp.]</span>](https://github.com/IVRL/PoGaIN/blob/main/supplementary_material/supp_mat.pdf)
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2210.04866) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/IVRL/PoGaIN) - [<span style="color:red">[Supp.]</span>](https://github.com/IVRL/PoGaIN/blob/main/supplementary_material/supp_mat.pdf)
 
 - :star2: :boom: X. Lin, B. Ozaydin, V. Vidit, **M. El Helou** and S. Süsstrunk, "DSR: Towards Drone Image Super-Resolution," *in European Conference on Computer Vision Workshops (ECCVW)*, 2022.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2208.12327) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/IVRL/DSR) - [<span style="color:red">[Supp.]</span>](https://github.com/IVRL/DSR/blob/main/supp.pdf) - [<span style="color:red">[Dataset]</span>](https://datasets.epfl.ch/dsr/index.html)
