@@ -12,7 +12,7 @@ author_profile: true
 --- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---\
 (patent info right [here](https://majedelhelou.github.io/misc/))
 
-- :green_book: N. Bähler\*, **M. El Helou**\*, E. Objois, K. Okumuş and S. Süsstrunk, "PoGaIN: Poisson-Gaussian Image Noise Modeling from Paired Samples," *under submission*. (\*equal contribution)  
+- :green_book: N. Bähler\*, **M. El Helou**\*, E. Objois, K. Okumuş and S. Süsstrunk, "PoGaIN: Poisson-Gaussian Image Noise Modeling from Paired Samples," *in IEEE Signal Processing Letters*, 2022. (\*equal contribution)  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2210.04866) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/IVRL/PoGaIN) - [<span style="color:red">[Supp.]</span>](https://github.com/IVRL/PoGaIN/blob/main/supplementary_material/supp_mat.pdf)
 
 - :star2: :boom: X. Lin, B. Ozaydin, V. Vidit, **M. El Helou** and S. Süsstrunk, "DSR: Towards Drone Image Super-Resolution," *in European Conference on Computer Vision Workshops (ECCVW)*, 2022.  
