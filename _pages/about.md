@@ -13,7 +13,7 @@ redirect_from:
 -->
 
 ---
-Currently at ETHZ's [Media Technology Center](https://mtc.ethz.ch/), where I work on and supervise industry-based computer vision projects. My main focus is on generative face editing, synthesis, and identity control, and overseeing one audio-driven video synthesis project and one audio synthesis project from German text. 
+Currently at ETHZ's [Media Technology Center](https://mtc.ethz.ch/), where I work on and supervise industry-based machine learning and computer vision projects. My main current focus is on data generation (controllable generative networks for synthesis, conditional diffusion networks). 
 
 Previously a PhD/postdoc at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research was in computational imaging and applied machine learning (overlapping with image processing and computational photography, deep learning, computer vision, estimation theory, and optics).
 
