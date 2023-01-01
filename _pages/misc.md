@@ -7,7 +7,8 @@ author_profile: true
 
 
 ## Tutorial
-[Fourier-domain image optimization](https://github.com/duembgen/fourier-deconv)
+- [Poisson-Gaussian statistical modeling](https://github.com/IVRL/PoGaIN)
+- [Fourier-domain image optimization](https://github.com/duembgen/fourier-deconv)
 
 ## Patent
 - [Demo: ADEFAN extreme video completion](https://adefan.epfl.ch/static/index.html)
