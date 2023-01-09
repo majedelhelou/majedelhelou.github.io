@@ -19,9 +19,9 @@ Previously a PhD/postdoc at EPFL's Image and Visual Representation Lab [IVRL](ht
 
 Papers, code, presentations --> [publications](https://majedelhelou.github.io/publications/)
 
-Patent, tutorial, datasets --> [misc](https://majedelhelou.github.io/misc/)
+Patent, tutorials, datasets --> [misc](https://majedelhelou.github.io/misc/)
 
-Past supervised projects --> [here](https://majedelhelou.github.io/teaching/project_supervision)
+Previous supervised projects --> [here](https://majedelhelou.github.io/teaching/project_supervision)
 
 
 *Contact details*
