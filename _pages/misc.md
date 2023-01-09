@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Tutorial
+## Tutorials/Mathematical Tools
 - [Poisson-Gaussian statistical modeling](https://github.com/IVRL/PoGaIN)
 - [Fourier-domain image optimization](https://github.com/duembgen/fourier-deconv)
 
@@ -17,7 +17,7 @@ author_profile: true
 ## Datasets
 - [W2S microscopy denoising/SR dataset](https://github.com/IVRL/w2s)
 - [VIDIT image relighting dataset](https://github.com/majedelhelou/VIDIT)
-- [Benchmark denoising datasets](https://github.com/majedelhelou/denoising_datasets)
+[//]: # (- [Benchmark denoising datasets](https://github.com/majedelhelou/denoising_datasets))
 
 {% include base_path %}
 
