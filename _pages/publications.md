@@ -12,7 +12,7 @@ author_profile: true
 --- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---\
 (patent info right [here](https://majedelhelou.github.io/misc/))
 
-- **M. El Helou**\*, "Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction," *in IEEE International Conference on Image Processing (ICIP)*, 2023.  
+- **M. El Helou**, "Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction," *in IEEE International Conference on Image Processing (ICIP)*, 2023.  
 [<span style="color:blue">[Paper TBD]</span>]() - [<span style="color:green">[Code / Project Page TBD]</span>]()
 
 - :green_book: N. Bähler\*, **M. El Helou**\*, E. Objois, K. Okumuş and S. Süsstrunk, "PoGaIN: Poisson-Gaussian Image Noise Modeling from Paired Samples," *in IEEE Signal Processing Letters*, 2022. (\*equal contribution)  
