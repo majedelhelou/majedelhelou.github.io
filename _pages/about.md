@@ -13,7 +13,7 @@ redirect_from:
 -->
 
 ---
-Currently at ETHZ's [Media Technology Center](https://mtc.ethz.ch/), where I work on and supervise industry-based machine learning and computer vision projects. My main current focus is on data generation (controllable and interpretable generative networks, conditional diffusion networks). 
+Currently an established researcher at ETHZ's [Media Technology Center](https://mtc.ethz.ch/), where I work on and supervise industry-based machine learning and computer vision projects, mostly with Align Technology and SRF. My main focus is on controllable and interpretable generative AI and visual media representation/understanding. 
 
 Previously a PhD/postdoc at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research was in computational imaging and applied machine learning (overlapping with image processing and computational photography, deep learning, computer vision, estimation theory, and optics).
 
