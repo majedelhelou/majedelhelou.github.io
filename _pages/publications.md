@@ -12,7 +12,8 @@ author_profile: true
 --- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---\
 (patent info right [here](https://majedelhelou.github.io/misc/))
 
-- [Coming Soon] A. Aakerberg, **M. El Helou**, K. Nasrollahi and T. Moeslund, "PDA-RWSR: Pixel-Wise Degradation Adaptive Real-World Super-Resolution," *in IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2024.
+- A. Aakerberg, **M. El Helou**, K. Nasrollahi and T. Moeslund, "PDA-RWSR: Pixel-Wise Degradation Adaptive Real-World Super-Resolution," *in IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2024.
+  [<span style="color:blue">[Paper]</span>](https://openaccess.thecvf.com/content/WACV2024/papers/Aakerberg_PDA-RWSR_Pixel-Wise_Degradation_Adaptive_Real-World_Super-Resolution_WACV_2024_paper.pdf)
 
 - **M. El Helou**, "Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction," *in IEEE International Conference on Image Processing (ICIP)*, 2023.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/abs/2306.14891) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/majedelhelou/FC-Diffusion) - [<span style="color:orange"> [Slides]</span>](ICIP_2023_presentation.pdf)
