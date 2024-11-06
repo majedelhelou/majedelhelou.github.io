@@ -12,6 +12,18 @@ author_profile: true
 --- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---
 
 
+- **M. El Helou**, D. Cetin, P. Stamenkovic, N. Huber, F. Zünd, "VerA: Versatile Anonymization Applicable to Clinical Facial Photographs," *in IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2025.  
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/pdf/2312.02124)
+
+- :boom: A. Pennino, **M. El Helou**, D. Vera Nieto, F. Zünd, "ArtWalks via Latent Diffusion Models," *in ACM SIGGRAPH Conference on Motion, Interaction and Games*, 2024.  
+[<span style="color:blue">[Paper]</span>](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/692112/1/Art_Walks_via_Latent_Diffusion_Models.pdf)
+
+- :boom: D. Cetin, B. Schesch, P. Stamenkovic, N. Huber, F. Zünd, **M. El Helou**, "Facial Image Feature Analysis and its Specialization for Fréchet Distance and Neighborhoods," *arXiv preprint arXiv:2406.18430*, 2024.  
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/pdf/2406.18430)
+
+- L. Mascarell, Y. L'Homme, **M. El Helou**, "Which Information Matters? Dissecting Human-written Multi-document Summaries with Partial Information Decomposition," *in Association of Computational Linguistics Findings (ACL)*, 2024.  
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/pdf/2405.14470)
+
 - A. Aakerberg, **M. El Helou**, K. Nasrollahi and T. Moeslund, "PDA-RWSR: Pixel-Wise Degradation Adaptive Real-World Super-Resolution," *in IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2024.  
 [<span style="color:blue">[Paper]</span>](https://openaccess.thecvf.com/content/WACV2024/papers/Aakerberg_PDA-RWSR_Pixel-Wise_Degradation_Adaptive_Real-World_Super-Resolution_WACV_2024_paper.pdf) - [<span style="color:red">[Dataset]</span>](https://zenodo.org/records/10044260)
 
