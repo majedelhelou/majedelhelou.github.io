@@ -12,14 +12,14 @@ author_profile: true
 --- You can also find my articles on my [Google Scholar](https://scholar.google.ch/citations?hl=en&user=caOfhrkAAAAJ) ---
 
 
-- **M. El Helou**, D. Cetin, P. Stamenkovic, N. Huber, F. Zünd, "VerA: Versatile Anonymization Applicable to Clinical Facial Photographs," *in IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2025.  
+- **M. El Helou**, D. Cetin, P. Stamenkovic, N. Huber, F. Zünd, "VerA: Versatile Anonymization Applicable to Clinical Facial Photographs," *in IEEE Winter Conference on Applications of Computer Vision (WACV)*, 2025. *(Oral)*  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/pdf/2312.02124)
+
+- :boom: D. Cetin, B. Schesch, P. Stamenkovic, N. Huber, F. Zünd, **M. El Helou**, "Facial Image Feature Analysis and its Specialization for Fréchet Distance and Neighborhoods," *in IS&T/SPIE Electronic Imaging*, 2025.  
+[<span style="color:blue">[Paper]</span>](https://arxiv.org/pdf/2406.18430)
 
 - :boom: A. Pennino, **M. El Helou**, D. Vera Nieto, F. Zünd, "ArtWalks via Latent Diffusion Models," *in ACM SIGGRAPH Conference on Motion, Interaction and Games*, 2024.  
 [<span style="color:blue">[Paper]</span>](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/692112/1/Art_Walks_via_Latent_Diffusion_Models.pdf)
-
-- :boom: D. Cetin, B. Schesch, P. Stamenkovic, N. Huber, F. Zünd, **M. El Helou**, "Facial Image Feature Analysis and its Specialization for Fréchet Distance and Neighborhoods," *arXiv preprint arXiv:2406.18430*, 2024.  
-[<span style="color:blue">[Paper]</span>](https://arxiv.org/pdf/2406.18430)
 
 - L. Mascarell, Y. L'Homme, **M. El Helou**, "Which Information Matters? Dissecting Human-written Multi-document Summaries with Partial Information Decomposition," *in Association of Computational Linguistics Findings (ACL)*, 2024.  
 [<span style="color:blue">[Paper]</span>](https://arxiv.org/pdf/2405.14470)
@@ -39,7 +39,7 @@ author_profile: true
 - **M. El Helou**  and S. Süsstrunk, "BIGPrior: Towards Decoupling Learned Prior Hallucination and Data Fidelity in Image Restoration," *in IEEE Transactions on Image Processing (TIP), vol. 31, pp. 1628-1640*, 2022.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/291164?&ln=en) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/majedelhelou/BIGPrior) - [<span style="color:red">[Supp.]</span>](https://github.com/majedelhelou/BIGPrior/blob/main/BIGPrior_supplementary_material.pdf) - [<span style="color:orange">[Poster (at ICCP21)]</span>](https://github.com/majedelhelou/majedelhelou.github.io/blob/master/_pages/BIGPrior_ICCP21_Poster.pdf)
 
-- :boom: Q. Liang, F. Cassayre, H. Owsianko, **M. El Helou** and S. Süsstrunk, "Image Denoising with Control over Deep Network Hallucination,"  *in IS&T/SPIE Electronic Imaging*, 2022.  
+- :boom: Q. Liang, F. Cassayre, H. Owsianko, **M. El Helou** and S. Süsstrunk, "Image Denoising with Control over Deep Network Hallucination," *in IS&T/SPIE Electronic Imaging*, 2022.  
 [<span style="color:blue">[Paper]</span>](https://infoscience.epfl.ch/record/291129?&ln=en) - [<span style="color:green">[Code / Project Page]</span>](https://github.com/IVRL/CCID)  - [<span style="color:orange"> [Slides]</span>](CCID2022.pdf)
 
 - :star2: **M. El Helou**, R. Zhou, S. Süsstrunk, R. Timofte, et al., "NTIRE 2021: Depth-Guided Image Relighting Challenge," *in IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2021.  
