@@ -12,12 +12,8 @@ redirect_from:
 *:hourglass_flowing_sand: ~Last update: Feb 2022~ :hourglass_flowing_sand:*
 -->
 
-[No longer maintained since 2023]
-
 ---
-Established researcher at ETHZ's [Media Technology Center](https://mtc.ethz.ch/), working on and supervising industry-based machine learning and computer vision projects, mostly with Align Technology and SRF. My main focus is on controllable and interpretable generative AI and visual media representation/understanding. 
-
-Previously PhD/postdoc at EPFL's Image and Visual Representation Lab [IVRL](https://ivrl.epfl.ch/). My research was in computational imaging and applied machine learning (overlapping with image processing and computational photography, deep learning, computer vision, estimation theory, and optics).
+ML/AI/Imaging R&D:
 
 Papers, code, presentations --> [publications](https://majedelhelou.github.io/publications/)
 
@@ -28,4 +24,4 @@ Previous supervised projects --> [here](https://majedelhelou.github.io/teaching/
 
 *Contact details*
 ---
-*Feel free to ping for questions on publications/code. "melhelou" username at the "@ethz.ch" domain.*
+"melhelou" username at the "@ethz.ch" domain.*
