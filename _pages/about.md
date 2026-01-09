@@ -24,4 +24,4 @@ Previous supervised projects --> [here](https://majedelhelou.github.io/teaching/
 
 *Contact details*
 ---
-"melhelou" username at the "@ethz.ch" domain.*
+melhelou@ethz.ch
