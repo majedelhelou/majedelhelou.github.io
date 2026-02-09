@@ -106,7 +106,7 @@ author_profile: true
 [<span style="color:blue"> [Paper]</span>](https://infoscience.epfl.ch/record/231919) - [<span style="color:green"> [Code / Project Page]</span>](https://github.com/majedelhelou/Multispectral_Deblurring) - [<span style="color:orange"> [Slides]</span>](MSDeblur_presentation.pdf)
 
   
-## Bachelor Studies
+## Undergrad
 - **M. El Helou**, R. Chanouha and H. Hajj, "Multiresolution Bagging for Ensemble Classification," lightning talk and poster session *in Workshop on Model-Based Clustering and Classification (MBC2)*, 2016.
 
 - **M. El Helou**, A. Turkmani, R. Chanouha and S. Charbaji, "A Novel ENF Extraction Approach for Region-of-Recording Identification of Media Recordings," *in IEEE International Conference on Signal Processing (ICSP)*, 2016, Vol. 6. pp. 97-108.  
